@@ -1,0 +1,82 @@
+syslog:
+  format: regex
+  patterns: 
+  - '^(?P<timestamp>\w{3}\s+\d+\s+\d{2}:\d{2}:\d{2})\s+(?P<host>\S+)\s+(?P<process>[^\s:]+)\[(?P<pid>\d+)\]:\s+(?P<message>.+)$'
+  - '^(?P<timestamp>\w{3}\s+\d+\s+\d{2}:\d{2}:\d{2})\s+(?P<host>\S+)\s+(?P<process>[^\s:]+):\s+(?P<message>.+)$'
+  - '^(?P<timestamp>\w{3}\s+\d+\s+\d{2}:\d{2}:\d{2})\s+(?P<host>\S+)\s+kernel:\s+\[(?P<kernel_time>[^\]]+)\]\s+(?P<message>.+)$'
+  - '^(?P<timestamp>\w{3}\s+\d+\s+\d{2}:\d{2}:\d{2})\s+(?P<host>\S+)\s+(?P<process>[^\[:]+)(?:\[\d+\])?:\s+(?P<message>.+)$'
+
+authlog:
+  format: regex
+  patterns: 
+  - '^(?P<timestamp>\w{3}\s+\d+\s+\d{2}:\d{2}:\d{2})\s+(?P<host>\S+)\s+(?P<process>[^\s:]+)\[(?P<pid>\d+)\]:\s+(?P<message>.+)$'
+  - '^(?P<timestamp>\w{3}\s+\d+\s+\d{2}:\d{2}:\d{2})\s+(?P<host>\S+)\s+(?P<process>[^\s:]+):\s+(?P<message>.+)$'
+  - '^(?P<timestamp>\w{3}\s+\d+\s+\d{2}:\d{2}:\d{2})\s+(?P<host>\S+)\s+(?P<process>[^\s:]+)\((?P<subprocess>[^\)]+)\):\s+(?P<message>.+)$'
+  - '^(?P<timestamp>\w{3}\s+\d+\s+\d{2}:\d{2}:\d{2})\s+(?P<host>\S+)\s+(?P<process>[^\[:]+)(?:\[\d+\])?:\s+(?P<message>.+)$'
+
+windowslog:
+  format: json
+  keys_mapping:
+    timestamp: Time
+    host: Computer
+    event_id: EventID
+    process_id: ProcessID
+    level: Level
+    provider: Provider
+    message: Message
+    domain: DomainName
+    service: ServiceName
+    status: Status
+    user: UserName
+    source: Source
+    computer: Computer
+    logon_id: LogonID
+    logon_type: LogonType
+    logon_type_desc: LogonTypeDescription
+
+generic_csv:
+  format: csv
+  keys_mapping:
+    timestamp: timestamp
+    user: masked_user
+    source_ip: source_ip
+    destination_ip: destination_ip
+    action: action
+    resource: resource
+    protocol: protocol
+    level: level
+    message: message
+    process: process
+    event_id: event_id
+    process_id: process_id 
+    access_result: access_result
+    location: location
+    device_type: device_type
+    session_duration: session_duration
+    event_count_session: event_count_session
+    session_complexity: session_complexity
+    anomaly_label: anomaly_bin
+    error_code: error_code
+
+application_json:
+  format: json
+  keys_mapping:
+    timestamp: timestamp
+    level: level
+    message: message
+    service: service
+    user: user
+    session: session_id
+    error_code: error
+
+windows_csv:
+  format: csv
+  keys_mapping:
+    timestamp: TimeCreated
+    event_id: EventID
+    message: Message
+    user: UserName
+    level: Level
+    process_id: ProcessID
+    source: SourceName
+    computer: ComputerName

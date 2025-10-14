@@ -1,0 +1,326 @@
+Jan  3 00:17:01 Pavilion CRON[9325]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan  3 00:17:01 Pavilion CRON[9325]: pam_unix(cron:session): session closed for user root
+Jan  3 01:17:01 Pavilion CRON[12393]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan  3 01:17:01 Pavilion CRON[12393]: pam_unix(cron:session): session closed for user root
+Jan  3 02:17:01 Pavilion CRON[15940]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan  3 02:17:01 Pavilion CRON[15940]: pam_unix(cron:session): session closed for user root
+Jan  3 10:28:38 Pavilion systemd-logind[767]: Operation 'sleep' finished.
+Jan  3 10:28:44 Pavilion PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Jan  3 10:28:44 Pavilion PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Jan  3 10:28:53 Pavilion PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Jan  3 10:28:53 Pavilion PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Jan  3 10:28:55 Pavilion PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Jan  3 10:28:55 Pavilion PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Jan  3 10:28:57 Pavilion PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Jan  3 10:28:57 Pavilion PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Jan  3 10:28:59 Pavilion PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Jan  3 10:28:59 Pavilion PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Jan  3 10:29:07 Pavilion gdm-password]: pam_unix(gdm-password:auth): Couldn't open /etc/securetty: No such file or directory
+Jan  3 10:29:10 Pavilion gdm-password]: pam_unix(gdm-password:auth): Couldn't open /etc/securetty: No such file or directory
+Jan  3 10:29:10 Pavilion gdm-password]: gkr-pam: unlocked login keyring
+Jan  3 10:30:01 Pavilion CRON[19878]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan  3 10:30:01 Pavilion CRON[19878]: pam_unix(cron:session): session closed for user root
+Jan  3 11:17:01 Pavilion CRON[21055]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan  3 11:17:01 Pavilion CRON[21055]: pam_unix(cron:session): session closed for user root
+Jan  3 11:30:01 Pavilion CRON[21219]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan  3 11:30:01 Pavilion CRON[21219]: pam_unix(cron:session): session closed for user root
+Jan  3 12:17:01 Pavilion CRON[21914]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan  3 12:17:01 Pavilion CRON[21914]: pam_unix(cron:session): session closed for user root
+Jan  3 12:20:33 Pavilion gdm-password]: pam_unix(gdm-password:auth): Couldn't open /etc/securetty: No such file or directory
+Jan  3 12:20:42 Pavilion gdm-password]: pam_unix(gdm-password:auth): Couldn't open /etc/securetty: No such file or directory
+Jan  3 12:20:42 Pavilion gdm-password]: gkr-pam: unlocked login keyring
+Jan  3 12:23:09 Pavilion sudo: pam_unix(sudo:auth): Couldn't open /etc/securetty: No such file or directory
+Jan  3 12:23:12 Pavilion sudo: pam_unix(sudo:auth): Couldn't open /etc/securetty: No such file or directory
+Jan  3 12:23:12 Pavilion sudo:    manan : TTY=pts/0 ; PWD=/home/manan ; USER=root ; COMMAND=/usr/bin/snap install --classic code
+Jan  3 12:23:12 Pavilion sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Jan  3 12:24:45 Pavilion sudo: pam_unix(sudo:session): session closed for user root
+Jan  3 12:30:01 Pavilion CRON[22970]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan  3 12:30:01 Pavilion CRON[22970]: pam_unix(cron:session): session closed for user root
+Jan  3 13:17:01 Pavilion CRON[24929]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan  3 13:17:01 Pavilion CRON[24929]: pam_unix(cron:session): session closed for user root
+Jan  3 13:30:01 Pavilion CRON[25167]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan  3 13:30:01 Pavilion CRON[25167]: pam_unix(cron:session): session closed for user root
+Jan  3 14:00:00 Pavilion gdm-password]: pam_unix(gdm-password:auth): Couldn't open /etc/securetty: No such file or directory
+Jan  3 14:00:07 Pavilion gdm-password]: pam_unix(gdm-password:auth): Couldn't open /etc/securetty: No such file or directory
+Jan  3 14:00:07 Pavilion gdm-password]: gkr-pam: unlocked login keyring
+Jan  3 14:17:01 Pavilion CRON[26302]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan  3 14:17:01 Pavilion CRON[26302]: pam_unix(cron:session): session closed for user root
+Jan  3 14:17:13 Pavilion gdm-password]: pam_unix(gdm-password:auth): Couldn't open /etc/securetty: No such file or directory
+Jan  3 14:17:16 Pavilion gdm-password]: pam_unix(gdm-password:auth): Couldn't open /etc/securetty: No such file or directory
+Jan  3 14:17:16 Pavilion gdm-password]: gkr-pam: unlocked login keyring
+Jan  3 14:22:52 Pavilion sudo: pam_unix(sudo:auth): Couldn't open /etc/securetty: No such file or directory
+Jan  3 14:22:55 Pavilion sudo: pam_unix(sudo:auth): Couldn't open /etc/securetty: No such file or directory
+Jan  3 14:22:55 Pavilion sudo:    manan : TTY=pts/0 ; PWD=/home/manan ; USER=root ; COMMAND=/usr/sbin/adduser test
+Jan  3 14:22:55 Pavilion sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Jan  3 14:22:55 Pavilion groupadd[27152]: group added to /etc/group: name=test, GID=1001
+Jan  3 14:22:56 Pavilion groupadd[27152]: group added to /etc/gshadow: name=test
+Jan  3 14:22:56 Pavilion groupadd[27152]: new group: name=test, GID=1001
+Jan  3 14:22:56 Pavilion useradd[27158]: new user: name=test, UID=1001, GID=1001, home=/home/test, shell=/bin/bash, from=/dev/pts/0
+Jan  3 14:23:04 Pavilion passwd[27170]: pam_unix(passwd:chauthtok): password changed for test
+Jan  3 14:23:04 Pavilion passwd[27170]: gkr-pam: couldn't update the login keyring password: no old password was entered
+Jan  3 14:23:31 Pavilion chfn[27175]: changed user 'test' information
+Jan  3 14:23:35 Pavilion sudo: pam_unix(sudo:session): session closed for user root
+Jan  3 14:23:52 Pavilion sudo:    manan : TTY=pts/0 ; PWD=/home/manan ; USER=root ; COMMAND=/usr/bin/test
+Jan  3 14:23:52 Pavilion sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Jan  3 14:23:52 Pavilion sudo: pam_unix(sudo:session): session closed for user root
+Jan  3 14:23:59 Pavilion sudo:    manan : TTY=pts/0 ; PWD=/home/manan ; USER=root ; COMMAND=/usr/bin/su test
+Jan  3 14:23:59 Pavilion sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Jan  3 14:23:59 Pavilion su: (to test) manan on pts/0
+Jan  3 14:23:59 Pavilion su: pam_unix(su:session): session opened for user test by (uid=0)
+Jan  3 14:24:19 Pavilion sudo: pam_unix(sudo:auth): Couldn't open /etc/securetty: No such file or directory
+Jan  3 14:24:22 Pavilion sudo: pam_unix(sudo:auth): Couldn't open /etc/securetty: No such file or directory
+Jan  3 14:24:22 Pavilion sudo: pam_unix(sudo:auth): authentication failure; logname= uid=1001 euid=0 tty=/dev/pts/0 ruser=test rhost=  user=test
+Jan  3 14:24:24 Pavilion sudo: pam_unix(sudo:auth): Couldn't open /etc/securetty: No such file or directory
+Jan  3 14:24:32 Pavilion sudo: message repeated 3 times: [ pam_unix(sudo:auth): Couldn't open /etc/securetty: No such file or directory]
+Jan  3 14:24:34 Pavilion sudo:     test : user NOT in sudoers ; TTY=pts/0 ; PWD=/home/manan ; USER=root ; COMMAND=/usr/bin/su manan
+Jan  3 14:24:39 Pavilion sudo: pam_unix(sudo:auth): Couldn't open /etc/securetty: No such file or directory
+Jan  3 14:24:41 Pavilion sudo: pam_unix(sudo:auth): Couldn't open /etc/securetty: No such file or directory
+Jan  3 14:24:41 Pavilion sudo: pam_unix(sudo:auth): authentication failure; logname= uid=1001 euid=0 tty=/dev/pts/0 ruser=test rhost=  user=test
+Jan  3 14:24:42 Pavilion sudo: pam_unix(sudo:auth): Couldn't open /etc/securetty: No such file or directory
+Jan  3 14:24:52 Pavilion sudo: message repeated 3 times: [ pam_unix(sudo:auth): Couldn't open /etc/securetty: No such file or directory]
+Jan  3 14:24:52 Pavilion sudo:     test : user NOT in sudoers ; TTY=pts/0 ; PWD=/home/manan ; USER=root ; COMMAND=/usr/bin/su manan
+Jan  3 14:25:05 Pavilion sudo: pam_unix(sudo:auth): Couldn't open /etc/securetty: No such file or directory
+Jan  3 14:25:08 Pavilion sudo: pam_unix(sudo:auth): Couldn't open /etc/securetty: No such file or directory
+Jan  3 14:25:08 Pavilion sudo:     test : user NOT in sudoers ; TTY=pts/0 ; PWD=/home/manan ; USER=root ; COMMAND=/usr/bin/su
+Jan  3 14:30:01 Pavilion CRON[27591]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan  3 14:30:01 Pavilion CRON[27591]: pam_unix(cron:session): session closed for user root
+Jan  3 14:35:52 Pavilion sudo: pam_unix(sudo:auth): Couldn't open /etc/securetty: No such file or directory
+Jan  3 14:35:56 Pavilion sudo: pam_unix(sudo:auth): Couldn't open /etc/securetty: No such file or directory
+Jan  3 14:35:56 Pavilion sudo:     test : user NOT in sudoers ; TTY=pts/0 ; PWD=/home/manan ; USER=root ; COMMAND=-
+Jan  3 14:36:00 Pavilion sudo: pam_unix(sudo:auth): Couldn't open /etc/securetty: No such file or directory
+Jan  3 14:36:04 Pavilion sudo: pam_unix(sudo:auth): Couldn't open /etc/securetty: No such file or directory
+Jan  3 14:36:04 Pavilion sudo: pam_unix(sudo:auth): authentication failure; logname= uid=1001 euid=0 tty=/dev/pts/0 ruser=test rhost=  user=test
+Jan  3 14:36:06 Pavilion sudo: pam_unix(sudo:auth): Couldn't open /etc/securetty: No such file or directory
+Jan  3 14:36:11 Pavilion sudo: pam_unix(sudo:auth): Couldn't open /etc/securetty: No such file or directory
+Jan  3 14:36:11 Pavilion sudo:     test : user NOT in sudoers ; TTY=pts/0 ; PWD=/home/manan ; USER=root ; COMMAND=-
+Jan  3 14:36:18 Pavilion sudo: pam_unix(sudo:auth): Couldn't open /etc/securetty: No such file or directory
+Jan  3 14:36:20 Pavilion sudo: pam_unix(sudo:auth): Couldn't open /etc/securetty: No such file or directory
+Jan  3 14:36:20 Pavilion sudo:     test : user NOT in sudoers ; TTY=pts/0 ; PWD=/home/manan ; USER=root ; COMMAND=/usr/bin/su manan
+Jan  3 14:37:04 Pavilion sudo: pam_unix(sudo:auth): Couldn't open /etc/securetty: No such file or directory
+Jan  3 14:37:08 Pavilion sudo: pam_unix(sudo:auth): Couldn't open /etc/securetty: No such file or directory
+Jan  3 14:37:08 Pavilion sudo:     test : user NOT in sudoers ; TTY=pts/0 ; PWD=/home/manan ; USER=root ; COMMAND=/usr/bin/su
+Jan  3 14:37:21 Pavilion sudo: pam_unix(sudo:auth): Couldn't open /etc/securetty: No such file or directory
+Jan  3 14:37:24 Pavilion sudo: pam_unix(sudo:auth): Couldn't open /etc/securetty: No such file or directory
+Jan  3 14:37:24 Pavilion sudo:    manan : TTY=pts/1 ; PWD=/home/manan ; USER=root ; COMMAND=/usr/bin/su
+Jan  3 14:37:24 Pavilion sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Jan  3 14:37:24 Pavilion su: (to root) manan on pts/1
+Jan  3 14:37:24 Pavilion su: pam_unix(su:session): session opened for user root by (uid=0)
+Jan  3 14:37:59 Pavilion su: pam_unix(su:session): session closed for user test
+Jan  3 14:37:59 Pavilion sudo: pam_unix(sudo:session): session closed for user root
+Jan  3 14:38:05 Pavilion userdel[27965]: delete user 'test'
+Jan  3 14:38:05 Pavilion userdel[27965]: removed group 'test' owned by 'test'
+Jan  3 14:38:05 Pavilion userdel[27965]: removed shadow group 'test' owned by 'test'
+Jan  3 14:45:28 Pavilion gdm-password]: pam_unix(gdm-password:auth): Couldn't open /etc/securetty: No such file or directory
+Jan  3 14:45:40 Pavilion gdm-password]: pam_unix(gdm-password:auth): Couldn't open /etc/securetty: No such file or directory
+Jan  3 14:45:40 Pavilion gdm-password]: gkr-pam: unlocked login keyring
+Jan  3 14:49:24 Pavilion sudo:     root : TTY=pts/1 ; PWD=/home/manan ; USER=root ; COMMAND=/usr/bin/apt-get install gdm
+Jan  3 14:49:24 Pavilion sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Jan  3 14:49:25 Pavilion sudo: pam_unix(sudo:session): session closed for user root
+Jan  3 14:55:58 Pavilion PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.package-install-untrusted auth (only_trusted:0)
+Jan  3 14:56:02 Pavilion polkitd(authority=local): Operator of unix-session:2 successfully authenticated as unix-user:manan to gain ONE-SHOT authorization for action org.freedesktop.packagekit.package-install-untrusted for system-bus-name::1.122 [/snap/snap-store/518/usr/bin/snap-store --details gnome-system-monitor] (owned by unix-user:manan)
+Jan  3 14:56:02 Pavilion PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.package-install-untrusted
+Jan  3 14:57:26 Pavilion groupadd[30754]: group added to /etc/group: name=vboxusers, GID=133
+Jan  3 14:57:26 Pavilion groupadd[30754]: group added to /etc/gshadow: name=vboxusers
+Jan  3 14:57:26 Pavilion groupadd[30754]: new group: name=vboxusers, GID=133
+Jan  3 15:17:01 Pavilion CRON[41108]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan  3 15:17:01 Pavilion CRON[41108]: pam_unix(cron:session): session closed for user root
+Jan  3 15:30:01 Pavilion CRON[41429]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan  3 15:30:01 Pavilion CRON[41429]: pam_unix(cron:session): session closed for user root
+Jan  3 16:17:01 Pavilion CRON[42516]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan  3 16:17:01 Pavilion CRON[42516]: pam_unix(cron:session): session closed for user root
+Jan  3 16:30:01 Pavilion CRON[42784]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan  3 16:30:01 Pavilion CRON[42784]: pam_unix(cron:session): session closed for user root
+Jan  3 16:53:01 Pavilion CRON[43370]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan  3 16:53:01 Pavilion CRON[43370]: pam_unix(cron:session): session closed for user root
+Jan  3 17:17:01 Pavilion CRON[43878]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan  3 17:17:01 Pavilion CRON[43878]: pam_unix(cron:session): session closed for user root
+Jan  3 17:30:01 Pavilion CRON[44110]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan  3 17:30:01 Pavilion CRON[44110]: pam_unix(cron:session): session closed for user root
+Jan  3 18:17:01 Pavilion CRON[45097]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan  3 18:17:01 Pavilion CRON[45097]: pam_unix(cron:session): session closed for user root
+Jan  3 18:30:01 Pavilion CRON[45339]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan  3 18:30:01 Pavilion CRON[45339]: pam_unix(cron:session): session closed for user root
+Jan  3 19:19:22 Pavilion systemd-logind[767]: Operation 'sleep' finished.
+Jan  3 19:19:24 Pavilion gdm-password]: pam_unix(gdm-password:auth): Couldn't open /etc/securetty: No such file or directory
+Jan  3 19:19:26 Pavilion gdm-password]: pam_unix(gdm-password:auth): Couldn't open /etc/securetty: No such file or directory
+Jan  3 19:19:26 Pavilion gdm-password]: gkr-pam: unlocked login keyring
+Jan  3 19:30:01 Pavilion CRON[46755]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan  3 19:30:01 Pavilion CRON[46755]: pam_unix(cron:session): session closed for user root
+Jan  3 19:58:33 Pavilion systemd-logind[767]: Operation 'sleep' finished.
+Jan  3 19:58:37 Pavilion gdm-password]: pam_unix(gdm-password:auth): Couldn't open /etc/securetty: No such file or directory
+Jan  3 19:58:39 Pavilion gdm-password]: pam_unix(gdm-password:auth): Couldn't open /etc/securetty: No such file or directory
+Jan  3 19:58:39 Pavilion gdm-password]: gkr-pam: unlocked login keyring
+Jan  3 20:01:00 Pavilion sudo:     root : TTY=pts/1 ; PWD=/home/manan ; USER=root ; COMMAND=/usr/sbin/dmidecode -s bios-version
+Jan  3 20:01:00 Pavilion sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Jan  3 20:01:00 Pavilion sudo: pam_unix(sudo:session): session closed for user root
+Jan  3 20:02:24 Pavilion sudo:     root : TTY=pts/1 ; PWD=/home/manan ; USER=root ; COMMAND=/usr/bin/apt install psensor lm-sensors
+Jan  3 20:02:24 Pavilion sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Jan  3 20:02:40 Pavilion sudo: pam_unix(sudo:session): session closed for user root
+Jan  3 20:05:07 Pavilion sudo:     root : TTY=pts/1 ; PWD=/home/manan ; USER=root ; COMMAND=/usr/sbin/sysctl vm.swappiness
+Jan  3 20:05:07 Pavilion sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Jan  3 20:05:07 Pavilion sudo: pam_unix(sudo:session): session closed for user root
+Jan  3 20:07:04 Pavilion sudo:     root : TTY=pts/1 ; PWD=/home/manan ; USER=root ; COMMAND=/usr/sbin/sysctl vm.swappiness
+Jan  3 20:07:04 Pavilion sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Jan  3 20:07:04 Pavilion sudo: pam_unix(sudo:session): session closed for user root
+Jan  3 20:17:01 Pavilion CRON[50013]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan  3 20:17:01 Pavilion CRON[50013]: pam_unix(cron:session): session closed for user root
+Jan  3 20:30:01 Pavilion CRON[50349]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan  3 20:30:01 Pavilion CRON[50349]: pam_unix(cron:session): session closed for user root
+Jan  3 21:17:01 Pavilion CRON[51726]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan  3 21:17:01 Pavilion CRON[51726]: pam_unix(cron:session): session closed for user root
+Jan  3 21:30:01 Pavilion CRON[52016]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan  3 21:30:01 Pavilion CRON[52016]: pam_unix(cron:session): session closed for user root
+Jan  3 21:52:02 Pavilion gdm-password]: pam_unix(gdm-password:auth): Couldn't open /etc/securetty: No such file or directory
+Jan  3 21:52:39 Pavilion gdm-password]: pam_unix(gdm-password:auth): Couldn't open /etc/securetty: No such file or directory
+Jan  3 21:52:39 Pavilion gdm-password]: pam_unix(gdm-password:auth): authentication failure; logname= uid=0 euid=0 tty=/dev/tty1 ruser= rhost=  user=manan
+Jan  3 21:52:43 Pavilion gdm-password]: pam_unix(gdm-password:auth): Couldn't open /etc/securetty: No such file or directory
+Jan  3 21:52:44 Pavilion gdm-password]: pam_unix(gdm-password:auth): Couldn't open /etc/securetty: No such file or directory
+Jan  3 21:52:44 Pavilion gdm-password]: gkr-pam: unlocked login keyring
+Jan  3 22:17:01 Pavilion CRON[53637]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan  3 22:17:01 Pavilion CRON[53637]: pam_unix(cron:session): session closed for user root
+Jan  3 22:30:01 Pavilion CRON[53945]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan  3 22:30:01 Pavilion CRON[53945]: pam_unix(cron:session): session closed for user root
+Jan  3 23:17:01 Pavilion CRON[56193]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan  3 23:17:01 Pavilion CRON[56193]: pam_unix(cron:session): session closed for user root
+Jan  3 23:30:01 Pavilion CRON[56641]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan  3 23:30:01 Pavilion CRON[56641]: pam_unix(cron:session): session closed for user root
+Jan  3 23:50:14 Pavilion sudo:     root : TTY=pts/1 ; PWD=/home/manan ; USER=root ; COMMAND=/usr/sbin/visudo
+Jan  3 23:50:14 Pavilion sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Jan  3 23:51:53 Pavilion sudo: pam_unix(sudo:session): session closed for user root
+Jan  3 23:52:10 Pavilion sudo:     root : TTY=pts/1 ; PWD=/home/manan ; USER=root ; COMMAND=/usr/bin/su
+Jan  3 23:52:10 Pavilion sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Jan  3 23:52:10 Pavilion su: (to root) manan on pts/1
+Jan  3 23:52:10 Pavilion su: pam_unix(su:session): session opened for user root by (uid=0)
+Jan  3 23:52:21 Pavilion su: (to manan) manan on pts/1
+Jan  3 23:52:21 Pavilion su: pam_unix(su:session): session opened for user manan by (uid=0)
+Jan  3 23:52:41 Pavilion sudo: pam_unix(sudo:auth): Couldn't open /etc/securetty: No such file or directory
+Jan  3 23:52:43 Pavilion sudo: pam_unix(sudo:auth): Couldn't open /etc/securetty: No such file or directory
+Jan  3 23:52:43 Pavilion sudo:    manan : TTY=pts/1 ; PWD=/home/manan ; USER=root ; COMMAND=/usr/sbin/adduser test
+Jan  3 23:52:43 Pavilion sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Jan  3 23:52:43 Pavilion groupadd[57752]: group added to /etc/group: name=test, GID=1001
+Jan  3 23:52:43 Pavilion groupadd[57752]: group added to /etc/gshadow: name=test
+Jan  3 23:52:43 Pavilion groupadd[57752]: new group: name=test, GID=1001
+Jan  3 23:52:43 Pavilion useradd[57760]: new user: name=test, UID=1001, GID=1001, home=/home/test, shell=/bin/bash, from=/dev/pts/1
+Jan  3 23:52:56 Pavilion passwd[57769]: pam_unix(passwd:chauthtok): password changed for test
+Jan  3 23:52:56 Pavilion passwd[57769]: gkr-pam: couldn't update the login keyring password: no old password was entered
+Jan  3 23:52:57 Pavilion chfn[57772]: changed user 'test' information
+Jan  3 23:52:59 Pavilion sudo: pam_unix(sudo:session): session closed for user root
+Jan  3 23:53:12 Pavilion su: pam_unix(su:auth): Couldn't open /etc/securetty: No such file or directory
+Jan  3 23:53:14 Pavilion su: pam_unix(su:auth): Couldn't open /etc/securetty: No such file or directory
+Jan  3 23:53:14 Pavilion su: (to test) manan on pts/1
+Jan  3 23:53:14 Pavilion su: pam_unix(su:session): session opened for user test by (uid=1000)
+Jan  3 23:53:18 Pavilion su: pam_unix(su:auth): Couldn't open /etc/securetty: No such file or directory
+Jan  3 23:53:21 Pavilion su: pam_unix(su:auth): Couldn't open /etc/securetty: No such file or directory
+Jan  3 23:53:21 Pavilion su: (to manan) manan on pts/1
+Jan  3 23:53:21 Pavilion su: pam_unix(su:session): session opened for user manan by (uid=1001)
+Jan  3 23:58:22 Pavilion sudo:    manan : TTY=pts/1 ; PWD=/home/manan ; USER=root ; COMMAND=/usr/bin/su
+Jan  3 23:58:22 Pavilion sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Jan  3 23:58:22 Pavilion su: (to root) manan on pts/1
+Jan  3 23:58:22 Pavilion su: pam_unix(su:session): session opened for user root by (uid=0)
+Jan  4 00:08:11 Pavilion sudo:     root : TTY=pts/1 ; PWD=/home/manan ; USER=root ; COMMAND=/usr/bin/add-apt-repository ppa:nathan-renniewaldock/flux
+Jan  4 00:08:11 Pavilion sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Jan  4 00:08:22 Pavilion sudo: pam_unix(sudo:session): session closed for user root
+Jan  4 00:08:47 Pavilion sudo:     root : TTY=pts/1 ; PWD=/home/manan ; USER=root ; COMMAND=/usr/bin/apt-get update
+Jan  4 00:08:47 Pavilion sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Jan  4 00:08:49 Pavilion sudo: pam_unix(sudo:session): session closed for user root
+Jan  4 00:09:31 Pavilion sudo:     root : TTY=pts/1 ; PWD=/home/manan ; USER=root ; COMMAND=/usr/bin/apt-get install fluxgui
+Jan  4 00:09:31 Pavilion sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Jan  4 00:09:31 Pavilion sudo: pam_unix(sudo:session): session closed for user root
+Jan  4 00:10:24 Pavilion sudo:     root : TTY=pts/1 ; PWD=/home/manan ; USER=root ; COMMAND=/usr/bin/apt-get install redshift redshift-gtk
+Jan  4 00:10:24 Pavilion sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Jan  4 00:10:35 Pavilion sudo: pam_unix(sudo:session): session closed for user root
+Jan  4 00:17:01 Pavilion CRON[62411]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan  4 00:17:01 Pavilion CRON[62411]: pam_unix(cron:session): session closed for user root
+Jan  4 00:46:37 Pavilion sudo:     root : TTY=pts/1 ; PWD=/home/manan ; USER=root ; COMMAND=/usr/bin/apt-get install avahi-utils
+Jan  4 00:46:37 Pavilion sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Jan  4 00:46:38 Pavilion sudo: pam_unix(sudo:session): session closed for user root
+Jan  4 00:48:29 Pavilion sudo:     root : TTY=pts/1 ; PWD=/ ; USER=root ; COMMAND=/usr/bin/apt-get install openssh-client
+Jan  4 00:48:29 Pavilion sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Jan  4 00:48:30 Pavilion sudo: pam_unix(sudo:session): session closed for user root
+Jan  4 00:48:39 Pavilion sudo:     root : TTY=pts/1 ; PWD=/ ; USER=root ; COMMAND=/usr/bin/apt-get install openssh-server
+Jan  4 00:48:39 Pavilion sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Jan  4 00:48:47 Pavilion useradd[64076]: new user: name=sshd, UID=126, GID=65534, home=/run/sshd, shell=/usr/sbin/nologin, from=none
+Jan  4 00:48:48 Pavilion usermod[64084]: change user 'sshd' password
+Jan  4 00:48:48 Pavilion chage[64091]: changed password expiry for sshd
+Jan  4 00:48:50 Pavilion sshd[64224]: Server listening on 0.0.0.0 port 22.
+Jan  4 00:48:50 Pavilion sshd[64224]: Server listening on :: port 22.
+Jan  4 00:48:55 Pavilion sudo: pam_unix(sudo:session): session closed for user root
+Jan  4 00:49:46 Pavilion sshd[65282]: Accepted password for manan from 127.0.0.1 port 53648 ssh2
+Jan  4 00:49:46 Pavilion sshd[65282]: pam_unix(sshd:session): session opened for user manan by (uid=0)
+Jan  4 00:49:46 Pavilion systemd-logind[767]: New session 38 of user manan.
+Jan  4 00:53:08 Pavilion sshd[65395]: Received disconnect from 127.0.0.1 port 53648:11: disconnected by user
+Jan  4 00:53:08 Pavilion sshd[65395]: Disconnected from user manan 127.0.0.1 port 53648
+Jan  4 00:53:08 Pavilion sshd[65282]: pam_unix(sshd:session): session closed for user manan
+Jan  4 00:53:08 Pavilion systemd-logind[767]: Session 38 logged out. Waiting for processes to exit.
+Jan  4 00:53:08 Pavilion systemd-logind[767]: Removed session 38.
+Jan  4 00:54:52 Pavilion sshd[65746]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=127.0.0.1  user=manan
+Jan  4 00:54:54 Pavilion sshd[65746]: Failed password for manan from 127.0.0.1 port 53730 ssh2
+Jan  4 00:55:02 Pavilion sshd[65746]: message repeated 2 times: [ Failed password for manan from 127.0.0.1 port 53730 ssh2]
+Jan  4 00:55:02 Pavilion sshd[65746]: Connection closed by authenticating user manan 127.0.0.1 port 53730 [preauth]
+Jan  4 00:55:02 Pavilion sshd[65746]: PAM 2 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=127.0.0.1  user=manan
+Jan  4 00:56:17 Pavilion sshd[65796]: Accepted password for manan from 127.0.0.1 port 53746 ssh2
+Jan  4 00:56:17 Pavilion sshd[65796]: pam_unix(sshd:session): session opened for user manan by (uid=0)
+Jan  4 00:56:17 Pavilion systemd-logind[767]: New session 39 of user manan.
+Jan  4 00:57:18 Pavilion sshd[65863]: Received disconnect from 127.0.0.1 port 53746:11: disconnected by user
+Jan  4 00:57:18 Pavilion sshd[65863]: Disconnected from user manan 127.0.0.1 port 53746
+Jan  4 00:57:18 Pavilion sshd[65796]: pam_unix(sshd:session): session closed for user manan
+Jan  4 00:57:18 Pavilion systemd-logind[767]: Session 39 logged out. Waiting for processes to exit.
+Jan  4 00:57:18 Pavilion systemd-logind[767]: Removed session 39.
+Jan  4 00:57:30 Pavilion su: (to test) manan on pts/1
+Jan  4 00:57:30 Pavilion su: pam_unix(su:session): session opened for user test by (uid=0)
+Jan  4 00:57:54 Pavilion sudo: pam_unix(sudo:auth): Couldn't open /etc/securetty: No such file or directory
+Jan  4 00:57:57 Pavilion sudo: pam_unix(sudo:auth): Couldn't open /etc/securetty: No such file or directory
+Jan  4 00:57:57 Pavilion sudo:     test : user NOT in sudoers ; TTY=pts/1 ; PWD=/ ; USER=root ; COMMAND=/usr/bin/su
+Jan  4 01:02:44 Pavilion sudo: pam_unix(sudo:auth): Couldn't open /etc/securetty: No such file or directory
+Jan  4 01:02:47 Pavilion sudo: pam_unix(sudo:auth): Couldn't open /etc/securetty: No such file or directory
+Jan  4 01:02:47 Pavilion sudo:     test : user NOT in sudoers ; TTY=pts/1 ; PWD=/ ; USER=root ; COMMAND=/usr/sbin/groupmod test -n newtest
+Jan  4 01:02:59 Pavilion su: pam_unix(su:auth): Couldn't open /etc/securetty: No such file or directory
+Jan  4 01:03:01 Pavilion su: pam_unix(su:auth): Couldn't open /etc/securetty: No such file or directory
+Jan  4 01:03:01 Pavilion su: (to manan) manan on pts/1
+Jan  4 01:03:01 Pavilion su: pam_unix(su:session): session opened for user manan by (uid=1001)
+Jan  4 01:03:26 Pavilion sudo: pam_unix(sudo:auth): Couldn't open /etc/securetty: No such file or directory
+Jan  4 01:03:29 Pavilion sudo: pam_unix(sudo:auth): Couldn't open /etc/securetty: No such file or directory
+Jan  4 01:03:29 Pavilion sudo:    manan : TTY=pts/1 ; PWD=/ ; USER=root ; COMMAND=/usr/sbin/groupmod test -n newtest
+Jan  4 01:03:29 Pavilion sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Jan  4 01:03:29 Pavilion groupmod[66200]: group changed in /etc/group (group test/1001, new name: newtest)
+Jan  4 01:03:29 Pavilion groupmod[66200]: group changed in /etc/gshadow (group test, new name: newtest)
+Jan  4 01:03:29 Pavilion sudo: pam_unix(sudo:session): session closed for user root
+Jan  4 01:03:49 Pavilion su: pam_unix(su:auth): Couldn't open /etc/securetty: No such file or directory
+Jan  4 01:03:53 Pavilion su: pam_unix(su:auth): Couldn't open /etc/securetty: No such file or directory
+Jan  4 01:03:53 Pavilion su: (to test) manan on pts/1
+Jan  4 01:03:53 Pavilion su: pam_unix(su:session): session opened for user test by (uid=1000)
+Jan  4 01:06:54 Pavilion systemd-logind[767]: Lid closed.
+Jan  4 01:17:01 Pavilion CRON[66785]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan  4 01:17:01 Pavilion CRON[66785]: pam_unix(cron:session): session closed for user root
+Jan  4 01:26:58 Pavilion systemd-logind[767]: Delay lock is active (UID 1000/manan, PID 1755/gnome-shell) but inhibitor timeout is reached.
+Jan  4 09:47:40 Pavilion systemd-logind[767]: Lid opened.
+Jan  4 09:47:40 Pavilion systemd-logind[767]: Operation 'sleep' finished.
+Jan  4 09:47:45 Pavilion PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Jan  4 09:47:45 Pavilion PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Jan  4 09:47:52 Pavilion PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Jan  4 09:47:52 Pavilion PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Jan  4 09:47:55 Pavilion PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Jan  4 09:47:55 Pavilion PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Jan  4 09:47:57 Pavilion PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Jan  4 09:47:57 Pavilion PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Jan  4 09:47:59 Pavilion PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Jan  4 09:47:59 Pavilion PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Jan  4 09:49:21 Pavilion gdm-password]: pam_unix(gdm-password:auth): Couldn't open /etc/securetty: No such file or directory
+Jan  4 09:50:51 Pavilion gdm-password]: pam_unix(gdm-password:auth): Couldn't open /etc/securetty: No such file or directory
+Jan  4 09:50:51 Pavilion gdm-password]: gkr-pam: unlocked login keyring
+Jan  4 10:17:01 Pavilion CRON[70297]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan  4 10:17:01 Pavilion CRON[70297]: pam_unix(cron:session): session closed for user root
+Jan  4 10:25:00 Pavilion gdm-password]: pam_unix(gdm-password:auth): Couldn't open /etc/securetty: No such file or directory
+Jan  4 10:27:16 Pavilion gdm-password]: pam_unix(gdm-password:auth): Couldn't open /etc/securetty: No such file or directory
+Jan  4 10:27:16 Pavilion gdm-password]: pam_unix(gdm-password:auth): authentication failure; logname= uid=0 euid=0 tty=/dev/tty1 ruser= rhost=  user=manan
+Jan  4 10:27:20 Pavilion gdm-password]: pam_unix(gdm-password:auth): Couldn't open /etc/securetty: No such file or directory
+Jan  4 10:28:21 Pavilion gdm-password]: pam_unix(gdm-password:auth): Couldn't open /etc/securetty: No such file or directory
+Jan  4 10:28:21 Pavilion gdm-password]: gkr-pam: unlocked login keyring
+Jan  4 10:28:28 Pavilion systemd-logind[767]: Watching system buttons on /dev/input/event6 (Logitech K230)
+Jan  4 10:30:01 Pavilion CRON[70949]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan  4 10:30:01 Pavilion CRON[70949]: pam_unix(cron:session): session closed for user root
+Jan  4 10:36:08 Pavilion sudo: pam_unix(sudo:auth): Couldn't open /etc/securetty: No such file or directory
+Jan  4 10:36:12 Pavilion sudo: pam_unix(sudo:auth): Couldn't open /etc/securetty: No such file or directory
+Jan  4 10:36:12 Pavilion sudo:    manan : TTY=pts/2 ; PWD=/home/manan/Documents/github/remote ; USER=root ; COMMAND=/usr/bin/apt install git
+Jan  4 10:36:12 Pavilion sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Jan  4 10:36:28 Pavilion sudo: pam_unix(sudo:session): session closed for user root
