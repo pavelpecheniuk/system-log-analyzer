@@ -1,0 +1,100 @@
+Jun 10 11:31:51 combo kernel: inserting floppy driver for 2.6.5-1.358
+Jun 10 11:31:51 combo kernel: Floppy drive(s): fd0 is 1.44M
+Jun 10 11:31:52 combo kernel: FDC 0 is a National Semiconductor PC87306
+Jun 10 11:31:52 combo kernel: PCI: Found IRQ 5 for device 0000:01:0c.0
+Jun 10 11:31:52 combo kernel: 3c59x: Donald Becker and others. www.scyld.com/network/vortex.html
+Jun 10 11:31:52 combo kernel: 0000:01:0c.0: 3Com PCI 3c905C Tornado at 0xec80. Vers LK1.1.19
+Jun 10 11:31:52 combo kernel: ip_tables: (C) 2000-2002 Netfilter core team
+Jun 10 11:31:53 combo kernel: PCI: Found IRQ 5 for device 0000:01:0c.0
+Jun 10 11:31:53 combo kernel: 3c59x: Donald Becker and others. www.scyld.com/network/vortex.html
+Jun 10 11:31:53 combo kernel: 0000:01:0c.0: 3Com PCI 3c905C Tornado at 0xec80. Vers LK1.1.19
+Jun 10 11:31:54 combo kernel: ip_tables: (C) 2000-2002 Netfilter core team
+Jun 10 11:31:54 combo kernel: process `syslogd' is using obsolete setsockopt SO_BSDCOMPAT
+Jun 10 11:31:54 combo kernel: Bluetooth: Core ver 2.4
+Jun 10 11:31:54 combo kernel: NET: Registered protocol family 31
+Jun 10 11:31:54 combo kernel: Bluetooth: HCI device and connection manager initialized
+Jun 10 11:31:54 combo kernel: Bluetooth: HCI socket layer initialized
+Jun 10 11:31:55 combo kernel: Bluetooth: L2CAP ver 2.1
+Jun 10 11:31:55 combo kernel: Bluetooth: L2CAP socket layer initialized
+Jun 10 11:31:55 combo kernel: Bluetooth: RFCOMM ver 1.2
+Jun 10 11:31:55 combo kernel: Bluetooth: RFCOMM socket layer initialized
+Jun 10 11:31:55 combo kernel: Bluetooth: RFCOMM TTY layer initialized
+Jun 10 11:31:58 combo kernel: parport0: PC-style at 0x378 (0x778) [PCSPP,TRISTATE,EPP]
+Jun 10 11:31:58 combo kernel: parport0: irq 7 detected
+Jun 10 11:31:58 combo kernel: lp0: using parport0 (polling).
+Jun 10 11:31:58 combo kernel: lp0: console ready
+Jun 10 11:32:00 combo cups: cupsd startup succeeded
+Jun 10 11:32:00 combo sshd:  succeeded
+Jun 10 11:32:00 combo xinetd: xinetd startup succeeded
+Jun 10 11:32:01 combo sendmail: sendmail startup succeeded
+Jun 10 11:32:01 combo sendmail: sm-client startup succeeded
+Jun 10 11:32:02 combo xinetd[2034]: No such internal service: services/stream - DISABLING
+Jun 10 11:32:03 combo xinetd[2034]: bind failed (Address already in use (errno = 98)). service = telnet
+Jun 10 11:32:03 combo xinetd[2034]: Service telnet failed to start and is deactivated.
+Jun 10 11:32:03 combo xinetd[2034]: xinetd Version 2.3.13 started with libwrap loadavg options compiled in.
+Jun 10 11:32:03 combo xinetd[2034]: Started working: 30 available services
+Jun 10 11:32:05 combo spamassassin: spamd startup succeeded
+Jun 10 11:32:05 combo privoxy: Jun 10 11:32:05 Privoxy(-150769536) Info: loading configuration file '/etc/privoxy/config':
+Jun 10 11:32:06 combo privoxy: privoxy startup succeeded
+Jun 10 11:32:06 combo gpm[2094]: *** info [startup.c(95)]: 
+Jun 10 11:32:06 combo gpm[2094]: Started gpm successfully. Entered daemon mode.
+Jun 10 11:32:07 combo gpm[2094]: *** info [mice.c(1766)]: 
+Jun 10 11:32:07 combo gpm[2094]: imps2: Auto-detected intellimouse PS/2
+Jun 10 11:32:07 combo gpm: gpm startup succeeded
+Jun 10 11:32:07 combo su(pam_unix)[2103]: session opened for user htt by (uid=0)
+Jun 10 11:32:07 combo su(pam_unix)[2103]: session closed for user htt
+Jun 10 11:32:07 combo IIim: htt startup succeeded
+Jun 10 11:32:08 combo udev[2118]: creating device node '/udev/lp0'
+Jun 10 11:32:09 combo htt_server[2106]: started.
+Jun 10 11:32:10 combo canna:  succeeded
+Jun 10 11:32:10 combo crond: crond startup succeeded
+Jun 10 11:32:12 combo xfs: xfs startup succeeded
+Jun 10 11:32:12 combo anacron: anacron startup succeeded
+Jun 10 11:32:12 combo atd: atd startup succeeded
+Jun 10 11:32:12 combo readahead: Starting background readahead: 
+Jun 10 11:32:13 combo rc: Starting readahead:  succeeded
+Jun 10 11:32:14 combo messagebus: messagebus startup succeeded
+Jun 10 11:32:26 combo httpd: httpd startup succeeded
+Jun 10 11:32:28 combo squid[2292]: Squid Parent: child process 2295 started
+Jun 10 15:32:33 combo named[2306]: starting BIND 9.2.3 -u named -t /var/named/chroot
+Jun 10 15:32:33 combo named[2306]: using 1 CPU
+Jun 10 11:32:34 combo named: named startup succeeded
+Jun 10 15:32:34 combo named[2306]: loading configuration from '/etc/named.conf'
+Jun 10 15:32:34 combo named[2306]: listening on IPv4 interface lo, 127.0.0.1#53
+Jun 10 15:32:34 combo named[2306]: listening on IPv4 interface eth0, 63.126.79.67#53
+Jun 10 15:32:34 combo named[2306]: listening on IPv4 interface eth0:1, 63.126.79.69#53
+Jun 10 15:32:34 combo named[2306]: listening on IPv4 interface eth0:2, 63.126.79.70#53
+Jun 10 15:32:34 combo named[2306]: listening on IPv4 interface eth0:3, 63.126.79.71#53
+Jun 10 15:32:34 combo named[2306]: listening on IPv4 interface eth0:4, 63.126.79.72#53
+Jun 10 15:32:34 combo named[2306]: listening on IPv4 interface eth0:5, 63.126.79.73#53
+Jun 10 15:32:34 combo named[2306]: listening on IPv4 interface eth0:6, 63.126.79.75#53
+Jun 10 15:32:34 combo named[2306]: listening on IPv4 interface eth0:7, 63.126.79.80#53
+Jun 10 15:32:34 combo named[2306]: listening on IPv4 interface eth0:8, 63.126.79.81#53
+Jun 10 15:32:34 combo named[2306]: listening on IPv4 interface eth0:9, 63.126.79.82#53
+Jun 10 15:32:35 combo named[2306]: listening on IPv4 interface eth0:10, 63.126.79.83#53
+Jun 10 15:32:35 combo named[2306]: listening on IPv4 interface eth0:11, 63.126.79.84#53
+Jun 10 11:32:36 combo snmpd: snmpd startup succeeded
+Jun 10 15:32:36 combo named[2306]: listening on IPv4 interface eth0:12, 63.126.79.85#53
+Jun 10 15:32:37 combo named[2306]: listening on IPv4 interface eth0:13, 63.126.79.87#53
+Jun 10 11:32:37 combo ntpd[2327]: ntpd 4.2.0@1.1161-r Thu Mar 11 11:46:39 EST 2004 (1)
+Jun 10 11:32:37 combo ntpd: ntpd startup succeeded
+Jun 10 11:32:37 combo snmpd[2318]: NET-SNMP version 5.1.1 
+Jun 10 15:32:38 combo named[2306]: listening on IPv4 interface eth0:14, 63.126.79.89#53
+Jun 10 11:32:39 combo ntpd[2327]: precision = 2.000 usec
+Jun 10 15:32:40 combo named[2306]: listening on IPv4 interface eth0:15, 63.126.79.90#53
+Jun 10 11:32:40 combo ntpd[2327]: kernel time sync status 0040
+Jun 10 15:32:40 combo named[2306]: listening on IPv4 interface eth0:16, 63.126.79.95#53
+Jun 10 11:32:41 combo ntpd[2327]: frequency initialized 0.000 PPM from /var/lib/ntp/drift
+Jun 10 15:32:41 combo named[2306]: listening on IPv4 interface eth0:17, 63.126.79.100#53
+Jun 10 11:32:42 combo ntpd[2327]: configure: keyword "authenticate" unknown, line ignored
+Jun 10 15:32:42 combo named[2306]: listening on IPv4 interface eth0:18, 63.126.79.105#53
+Jun 10 15:32:43 combo named[2306]: listening on IPv4 interface eth0:19, 63.126.79.110#53
+Jun 10 15:32:43 combo named[2306]: listening on IPv4 interface eth0:20, 63.126.79.115#53
+Jun 10 15:32:44 combo named[2306]: listening on IPv4 interface eth0:21, 63.126.79.120#53
+Jun 10 15:32:45 combo named[2306]: listening on IPv4 interface eth0:22, 63.126.79.125#53
+Jun 10 15:32:45 combo named[2306]: couldn't add command channel 127.0.0.1#953: not found
+Jun 10 15:32:45 combo named[2306]: couldn't add command channel ::1#953: not found
+Jun 10 11:32:45 combo mysqld: Starting MySQL:  succeeded
+Jun 10 15:32:46 combo named[2306]: running
+Jun 10 11:32:46 combo rsyncd[2394]: rsyncd version 2.6.2 starting, listening on port 873 
+Jun 10 11:32:47 combo mdmonitor: mdadm succeeded

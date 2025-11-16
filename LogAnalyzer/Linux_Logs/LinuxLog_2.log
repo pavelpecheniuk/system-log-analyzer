@@ -1,0 +1,100 @@
+Jun  9 06:06:22 combo kernel: Uniform Multi-Platform E-IDE driver Revision: 7.00alpha2
+Jun  9 06:06:23 combo netfs: Mounting other filesystems:  succeeded
+Jun  9 06:06:23 combo kernel: ide: Assuming 33MHz system bus speed for PIO modes; override with idebus=xx
+Jun  9 06:06:23 combo kernel: ICH: IDE controller at PCI slot 0000:00:1f.1
+Jun  9 06:06:23 combo apmd[1717]: Version 3.0.2 (APM BIOS 1.2, Linux driver 1.16ac)
+Jun  9 06:06:23 combo apmd: apmd startup succeeded
+Jun  9 06:06:23 combo kernel: ICH: chipset revision 2
+Jun  9 06:06:23 combo kernel: ICH: not 100%% native mode: will probe irqs later
+Jun  9 06:06:23 combo kernel:     ide0: BM-DMA at 0xffa0-0xffa7, BIOS settings: hda:DMA, hdb:pio
+Jun  9 06:06:24 combo autofs: automount startup succeeded
+Jun  9 06:06:24 combo kernel:     ide1: BM-DMA at 0xffa8-0xffaf, BIOS settings: hdc:DMA, hdd:pio
+Jun  9 06:06:24 combo kernel: hda: IBM-DTLA-307015, ATA DISK drive
+Jun  9 06:06:24 combo smartd[1755]: smartd version 5.21 Copyright (C) 2002-3 Bruce Allen 
+Jun  9 06:06:24 combo kernel: Using cfq io scheduler
+Jun  9 06:06:24 combo smartd[1755]: Home page is http://smartmontools.sourceforge.net/  
+Jun  9 06:06:24 combo kernel: ide0 at 0x1f0-0x1f7,0x3f6 on irq 14
+Jun  9 06:06:24 combo smartd[1755]: Opened configuration file /etc/smartd.conf 
+Jun  9 06:06:24 combo kernel: hdc: SAMSUNG CD-ROM SN-124, ATAPI CD/DVD-ROM drive
+Jun  9 06:06:24 combo smartd[1755]: Configuration file /etc/smartd.conf parsed. 
+Jun  9 06:06:24 combo kernel: hdc: Disabling (U)DMA for SAMSUNG CD-ROM SN-124 (blacklisted)
+Jun  9 06:06:24 combo smartd[1755]: Device: /dev/hda, opened 
+Jun  9 06:06:24 combo kernel: ide1 at 0x170-0x177,0x376 on irq 15
+Jun  9 06:06:24 combo apmd[1717]: Charge: * * * (-1% unknown)
+Jun  9 06:06:24 combo smartd[1755]: Device: /dev/hda, found in smartd database. 
+Jun  9 06:06:24 combo kernel: hda: max request size: 128KiB
+Jun  9 06:06:24 combo smartd[1755]: Device: /dev/hda, is SMART capable. Adding to "monitor" list. 
+Jun  9 06:06:24 combo kernel: hda: 29336832 sectors (15020 MB) w/1916KiB Cache, CHS=29104/16/63, UDMA(66)
+Jun  9 06:06:24 combo smartd[1755]: Monitoring 1 ATA and 0 SCSI devices 
+Jun  9 06:06:24 combo kernel:  hda: hda1 hda2 hda3
+Jun  9 06:06:24 combo smartd[1757]: smartd has fork()ed into background mode. New PID=1757. 
+Jun  9 06:06:24 combo smartd: smartd startup succeeded
+Jun  9 06:06:24 combo kernel: hdc: ATAPI 24X CD-ROM drive, 128kB Cache
+Jun  9 06:06:24 combo kernel: Uniform CD-ROM driver Revision: 3.20
+Jun  9 06:06:24 combo kernel: ide-floppy driver 0.99.newide
+Jun  9 06:06:24 combo kernel: usbcore: registered new driver hiddev
+Jun  9 06:06:24 combo kernel: usbcore: registered new driver hid
+Jun  9 06:06:24 combo kernel: drivers/usb/input/hid-core.c: v2.0:USB HID core driver
+Jun  9 06:06:25 combo kernel: mice: PS/2 mouse device common for all mice
+Jun  9 06:06:25 combo kernel: serio: i8042 AUX port at 0x60,0x64 irq 12
+Jun  9 06:06:25 combo kernel: input: ImPS/2 Logitech Wheel Mouse on isa0060/serio1
+Jun  9 06:06:25 combo kernel: serio: i8042 KBD port at 0x60,0x64 irq 1
+Jun  9 06:06:25 combo kernel: input: AT Translated Set 2 keyboard on isa0060/serio0
+Jun  9 06:06:25 combo kernel: md: md driver 0.90.0 MAX_MD_DEVS=256, MD_SB_DISKS=27
+Jun  9 06:06:25 combo kernel: NET: Registered protocol family 2
+Jun  9 06:06:25 combo kernel: IP: routing cache hash table of 512 buckets, 4Kbytes
+Jun  9 06:06:26 combo kernel: TCP: Hash tables configured (established 8192 bind 16384)
+Jun  9 06:06:26 combo kernel: Initializing IPsec netlink socket
+Jun  9 06:06:26 combo kernel: NET: Registered protocol family 1
+Jun  9 06:06:26 combo kernel: NET: Registered protocol family 17
+Jun  9 06:06:26 combo kernel: checking if image is initramfs...it isn't (no cpio magic); looks like an initrd
+Jun  9 06:06:26 combo kernel: Freeing initrd memory: 186k freed
+Jun  9 06:06:26 combo kernel: md: Autodetecting RAID arrays.
+Jun  9 06:06:26 combo kernel: md: autorun ...
+Jun  9 06:06:26 combo kernel: md: ... autorun DONE.
+Jun  9 06:06:26 combo kernel: RAMDISK: Compressed image found at block 0
+Jun  9 06:06:26 combo rc: Starting hpoj:  succeeded
+Jun  9 06:06:26 combo kernel: VFS: Mounted root (ext2 filesystem).
+Jun  9 06:06:26 combo kernel: EXT3-fs: INFO: recovery required on readonly filesystem.
+Jun  9 06:06:26 combo kernel: EXT3-fs: write access will be enabled during recovery.
+Jun  9 06:06:26 combo kernel: kjournald starting.  Commit interval 5 seconds
+Jun  9 06:06:26 combo kernel: EXT3-fs: hda2: orphan cleanup on readonly fs
+Jun  9 06:06:27 combo kernel: EXT3-fs: hda2: 4 orphan inodes deleted
+Jun  9 06:06:27 combo kernel: EXT3-fs: recovery complete.
+Jun  9 06:06:27 combo kernel: EXT3-fs: mounted filesystem with ordered data mode.
+Jun  9 06:06:27 combo kernel: Freeing unused kernel memory: 144k freed
+Jun  9 06:06:27 combo kernel: SELinux:  Disabled at runtime.
+Jun  9 06:06:28 combo kernel: SELinux:  Unregistering netfilter hooks
+Jun  9 06:06:28 combo kernel: NET: Registered protocol family 10
+Jun  9 06:06:28 combo kernel: Disabled Privacy Extensions on device 022db720(lo)
+Jun  9 06:06:28 combo kernel: IPv6 over IPv4 tunneling driver
+Jun  9 06:06:28 combo kernel: USB Universal Host Controller Interface driver v2.2
+Jun  9 06:06:28 combo kernel: PCI: Found IRQ 11 for device 0000:00:1f.2
+Jun  9 06:06:29 combo kernel: uhci_hcd 0000:00:1f.2: UHCI Host Controller
+Jun  9 06:06:29 combo kernel: uhci_hcd 0000:00:1f.2: irq 11, io base 0000ff80
+Jun  9 06:06:29 combo kernel: uhci_hcd 0000:00:1f.2: new USB bus registered, assigned bus number 1
+Jun  9 06:06:29 combo kernel: hub 1-0:1.0: USB hub found
+Jun  9 06:06:29 combo kernel: hub 1-0:1.0: 2 ports detected
+Jun  9 06:06:29 combo kernel: EXT3 FS on hda2, internal journal
+Jun  9 06:06:30 combo kernel: device-mapper: 4.1.0-ioctl (2003-12-10) initialised: dm@uk.sistina.com
+Jun  9 06:06:30 combo kernel: cdrom: open failed.
+Jun  9 06:06:30 combo kernel: Adding 262072k swap on /dev/hda3.  Priority:-1 extents:1
+Jun  9 06:06:30 combo kernel: kjournald starting.  Commit interval 5 seconds
+Jun  9 06:06:30 combo kernel: EXT3 FS on hda1, internal journal
+Jun  9 06:06:31 combo kernel: EXT3-fs: mounted filesystem with ordered data mode.
+Jun  9 06:06:31 combo kernel: IA-32 Microcode Update Driver: v1.13 <tigran@veritas.com>
+Jun  9 06:06:31 combo kernel: microcode: CPU0 already at revision 0x8 (current=0x8)
+Jun  9 06:06:31 combo kernel: microcode: No suitable data for cpu 0
+Jun  9 06:06:31 combo kernel: parport0: PC-style at 0x378 (0x778) [PCSPP,TRISTATE,EPP]
+Jun  9 06:06:31 combo kernel: parport0: irq 7 detected
+Jun  9 06:06:31 combo kernel: SCSI subsystem initialized
+Jun  9 06:06:32 combo kernel: inserting floppy driver for 2.6.5-1.358
+Jun  9 06:06:32 combo kernel: Floppy drive(s): fd0 is 1.44M
+Jun  9 06:06:32 combo kernel: FDC 0 is a National Semiconductor PC87306
+Jun  9 06:06:33 combo kernel: PCI: Found IRQ 5 for device 0000:01:0c.0
+Jun  9 06:06:33 combo kernel: 3c59x: Donald Becker and others. www.scyld.com/network/vortex.html
+Jun  9 06:06:34 combo kernel: 0000:01:0c.0: 3Com PCI 3c905C Tornado at 0xec80. Vers LK1.1.19
+Jun  9 06:06:34 combo kernel: ip_tables: (C) 2000-2002 Netfilter core team
+Jun  9 06:06:34 combo kernel: PCI: Found IRQ 5 for device 0000:01:0c.0
+Jun  9 06:06:34 combo kernel: 3c59x: Donald Becker and others. www.scyld.com/network/vortex.html
+Jun  9 06:06:34 combo kernel: 0000:01:0c.0: 3Com PCI 3c905C Tornado at 0xec80. Vers LK1.1.19

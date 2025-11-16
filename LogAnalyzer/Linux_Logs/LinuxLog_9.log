@@ -1,0 +1,101 @@
+Dec  9 05:01:17 combo su(pam_unix)[15078]: session opened for user news by (uid=0)
+Dec  9 05:01:18 combo su(pam_unix)[15078]: session closed for user news
+Dec  9 05:41:51 combo ftpd[15181]: connection from 212.192.157.99 () at Fri Dec  9 05:41:51 2005 
+Dec  9 05:41:51 combo ftpd[15177]: connection from 212.192.157.99 () at Fri Dec  9 05:41:51 2005 
+Dec  9 08:41:07 combo telnetd[15476]: ttloop:  peer died: Invalid or incomplete multibyte or wide character
+Dec  9 08:41:18 combo telnetd[15478]: ttloop:  peer died: Invalid or incomplete multibyte or wide character
+Dec  9 08:41:25 combo telnetd[15480]: ttloop:  peer died: Invalid or incomplete multibyte or wide character
+Dec  9 08:42:20 combo telnetd[15482]: ttloop:  peer died: Invalid or incomplete multibyte or wide character
+Dec  9 09:36:11 combo telnetd[15651]: ttloop:  read: Connection reset by peer
+Dec  9 09:36:14 combo telnetd[15653]: ttloop:  peer died: Invalid or incomplete multibyte or wide character
+Dec  9 09:39:50 combo telnetd[15477]: ttloop:  read: Connection reset by peer
+Dec  9 09:40:11 combo gpm[2072]: *** info [mice.c(1766)]: 
+Dec  9 09:40:11 combo gpm[2072]: imps2: Auto-detected intellimouse PS/2
+Dec  9 09:40:20 combo login(pam_unix)[2420]: session opened for user root by LOGIN(uid=0)
+Dec  9 09:40:22 combo  -- root[2420]: ROOT LOGIN ON tty3
+Dec  9 09:40:59 combo gdm(pam_unix)[2828]: bad username [\]
+Dec  9 09:41:01 combo gdm-binary[2828]: Couldn't authenticate user
+Dec  9 09:41:07 combo telnetd[15712]: ttloop:  read: Connection reset by peer
+Dec  9 09:41:22 combo telnetd[15597]: ttloop:  read: Connection timed out
+Dec  9 09:41:51 combo login(pam_unix)[2419]: session opened for user root by LOGIN(uid=0)
+Dec  9 09:41:52 combo  -- root[2419]: ROOT LOGIN ON tty2
+Dec  9 09:43:06 combo kernel: Kernel logging (proc) stopped.
+Dec  9 09:43:06 combo kernel: Kernel log daemon terminating.
+Dec  9 09:43:13 combo syslog: klogd shutdown succeeded
+Dec  9 09:43:13 combo exiting on signal 15
+Dec  9 09:43:21 combo syslogd 1.4.1: restart.
+Dec  9 09:43:21 combo syslog: syslogd shutdown succeeded 
+Dec  9 09:43:25 combo syslog: syslogd startup succeeded
+Dec  9 09:43:25 combo syslog: klogd startup succeeded
+Dec  9 09:43:25 combo kernel: klogd 1.4.1, log source = /proc/kmsg started.
+Dec  9 09:44:16 combo telnetd[15861]: ttloop:  peer died: Invalid or incomplete multibyte or wide character
+Dec  9 09:45:49 combo login(pam_unix)[2419]: session closed for user root
+Dec  9 09:45:50 combo init: open(/dev/pts/0): No such file or directory
+Dec  9 09:45:51 combo udev[15950]: removing device node '/udev/vcsa2'
+Dec  9 09:45:51 combo udev[15949]: removing device node '/udev/vcs2'
+Dec  9 09:45:51 combo udev[15959]: creating device node '/udev/vcs2'
+Dec  9 09:45:51 combo udev[15960]: creating device node '/udev/vcsa2'
+Dec  9 09:45:51 combo udev[15967]: removing device node '/udev/vcsa2'
+Dec  9 09:45:51 combo udev[15975]: removing device node '/udev/vcs2'
+Dec  9 09:45:51 combo udev[15980]: creating device node '/udev/vcs2'
+Dec  9 09:45:51 combo udev[15972]: creating device node '/udev/vcsa2'
+Dec  9 09:48:07 combo login(pam_unix)[2420]: session closed for user root
+Dec  9 09:48:08 combo init: open(/dev/pts/0): No such file or directory
+Dec  9 09:51:14 combo telnetd[16127]: ttloop:  peer died: Invalid or incomplete multibyte or wide character
+Dec  9 09:51:20 combo telnetd[16129]: ttloop:  peer died: Invalid or incomplete multibyte or wide character
+Dec  9 09:51:31 combo telnetd[15862]: ttloop:  read: Connection reset by peer
+Dec  9 09:52:00 combo telnetd[16131]: ttloop:  peer died: Invalid or incomplete multibyte or wide character
+Dec  9 09:53:26 combo telnetd[16133]: ttloop:  peer died: Invalid or incomplete multibyte or wide character
+Dec  9 09:54:34 combo telnetd[16135]: ttloop:  peer died: Invalid or incomplete multibyte or wide character
+Dec  9 09:55:21 combo telnetd[16141]: ttloop:  peer died: Invalid or incomplete multibyte or wide character
+Dec  9 09:58:06 combo telnetd[16143]: ttloop:  peer died: Invalid or incomplete multibyte or wide character
+Dec  9 09:58:09 combo telnetd[16145]: ttloop:  peer died: Invalid or incomplete multibyte or wide character
+Dec  9 09:58:30 combo telnetd[16148]: ttloop:  peer died: Invalid or incomplete multibyte or wide character
+Dec  9 09:58:32 combo telnetd[16147]: ttloop:  peer died: Invalid or incomplete multibyte or wide character
+Dec  9 09:58:53 combo telnetd[16151]: ttloop:  peer died: Invalid or incomplete multibyte or wide character
+Dec  9 09:59:21 combo telnetd[16153]: ttloop:  peer died: Invalid or incomplete multibyte or wide character
+Dec  9 10:01:33 combo telnetd[16176]: ttloop:  peer died: Invalid or incomplete multibyte or wide character
+Dec  9 10:03:10 combo telnetd[16178]: ttloop:  peer died: Invalid or incomplete multibyte or wide character
+Dec  9 10:03:13 combo telnetd[16180]: ttloop:  peer died: Invalid or incomplete multibyte or wide character
+Dec  9 10:08:36 combo telnetd[16201]: ttloop:  peer died: Invalid or incomplete multibyte or wide character
+Dec  9 10:09:57 combo telnetd[16203]: ttloop:  peer died: Invalid or incomplete multibyte or wide character
+Dec  9 10:12:28 combo telnetd[15526]: ttloop:  read: Connection reset by peer
+Dec  9 10:12:28 combo telnetd[15638]: ttloop:  read: Connection reset by peer
+Dec  9 10:12:28 combo telnetd[16146]: ttloop:  read: Connection reset by peer
+Dec  9 10:14:08 combo sshd(pam_unix)[16225]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=host-xe04.kiosk.ws  user=root
+Dec  9 10:14:08 combo sshd(pam_unix)[16227]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=host-xe04.kiosk.ws  user=root
+Dec  9 10:14:08 combo sshd(pam_unix)[16222]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=host-xe04.kiosk.ws  user=root
+Dec  9 10:14:08 combo sshd(pam_unix)[16224]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=host-xe04.kiosk.ws  user=root
+Dec  9 10:14:08 combo sshd(pam_unix)[16226]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=host-xe04.kiosk.ws  user=root
+Dec  9 10:14:08 combo sshd(pam_unix)[16213]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=host-xe04.kiosk.ws  user=root
+Dec  9 10:14:08 combo sshd(pam_unix)[16215]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=host-xe04.kiosk.ws  user=root
+Dec  9 10:14:08 combo sshd(pam_unix)[16219]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=host-xe04.kiosk.ws  user=root
+Dec  9 10:14:08 combo sshd(pam_unix)[16212]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=host-xe04.kiosk.ws  user=root
+Dec  9 10:14:08 combo sshd(pam_unix)[16217]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=host-xe04.kiosk.ws  user=root
+Dec  9 10:52:32 combo telnetd[15479]: ttloop:  read: Connection timed out
+Dec  9 10:52:39 combo telnetd[15481]: ttloop:  read: Connection timed out
+Dec  9 10:53:35 combo telnetd[15483]: ttloop:  read: Connection timed out
+Dec  9 10:57:20 combo telnetd[15490]: ttloop:  read: Connection timed out
+Dec  9 10:57:29 combo telnetd[15492]: ttloop:  read: Connection timed out
+Dec  9 10:58:07 combo telnetd[15494]: ttloop:  read: Connection timed out
+Dec  9 10:58:54 combo telnetd[15496]: ttloop:  read: Connection timed out
+Dec  9 10:59:31 combo telnetd[15500]: ttloop:  read: Connection timed out
+Dec  9 11:00:57 combo telnetd[15502]: ttloop:  read: Connection timed out
+Dec  9 11:05:33 combo telnetd[15511]: ttloop:  read: Connection timed out
+Dec  9 11:05:50 combo telnetd[15513]: ttloop:  read: Connection timed out
+Dec  9 11:06:51 combo telnetd[15519]: ttloop:  read: Connection timed out
+Dec  9 11:07:42 combo telnetd[15521]: ttloop:  read: Connection timed out
+Dec  9 11:08:01 combo telnetd[15523]: ttloop:  read: Connection timed out
+Dec  9 11:10:41 combo telnetd[15528]: ttloop:  read: Connection timed out
+Dec  9 11:11:20 combo telnetd[15531]: ttloop:  read: Connection timed out
+Dec  9 11:12:25 combo telnetd[15556]: ttloop:  read: Connection timed out
+Dec  9 11:12:59 combo telnetd[15558]: ttloop:  read: Connection timed out
+Dec  9 11:15:55 combo telnetd[15560]: ttloop:  read: Connection timed out
+Dec  9 11:20:37 combo telnetd[15566]: ttloop:  read: Connection timed out
+Dec  9 11:22:30 combo telnetd[15575]: ttloop:  read: Connection timed out
+Dec  9 11:23:06 combo telnetd[15577]: ttloop:  read: Connection timed out
+Dec  9 11:23:24 combo telnetd[15579]: ttloop:  read: Connection timed out
+Dec  9 11:24:03 combo telnetd[15581]: ttloop:  read: Connection timed out
+Dec  9 11:25:26 combo telnetd[15583]: ttloop:  read: Connection timed out
+Dec  9 11:25:34 combo telnetd[15585]: ttloop:  read: Connection timed out
+

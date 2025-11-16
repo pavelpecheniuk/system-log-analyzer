@@ -1,0 +1,101 @@
+Jan 26 17:23:17 combo named[2288]: starting BIND 9.2.3 -u named -t /var/named/chroot
+Jan 26 17:23:17 combo named[2288]: using 1 CPU
+Jan 26 12:23:17 combo named: named startup succeeded
+Jan 26 17:23:18 combo named[2288]: loading configuration from '/etc/named.conf'
+Jan 26 17:23:18 combo named[2288]: listening on IPv4 interface lo, 127.0.0.1#53
+Jan 26 17:23:18 combo named[2288]: listening on IPv4 interface eth0, 63.126.79.67#53
+Jan 26 17:23:18 combo named[2288]: listening on IPv4 interface eth0:1, 63.126.79.69#53
+Jan 26 17:23:18 combo named[2288]: listening on IPv4 interface eth0:2, 63.126.79.70#53
+Jan 26 17:23:18 combo named[2288]: listening on IPv4 interface eth0:3, 63.126.79.71#53
+Jan 26 17:23:18 combo named[2288]: listening on IPv4 interface eth0:4, 63.126.79.72#53
+Jan 26 17:23:18 combo named[2288]: listening on IPv4 interface eth0:5, 63.126.79.73#53
+Jan 26 17:23:18 combo named[2288]: listening on IPv4 interface eth0:6, 63.126.79.75#53
+Jan 26 12:23:18 combo kernel: audit(1138296198.308:701025): avc:  denied  { name_bind } for  pid=2289 exe=/usr/sbin/named scontext=system_u:system_r:kernel_t tcontext=system_u:object_r:dns_port_t tclass=udp_socket
+Jan 26 17:23:18 combo named[2288]: listening on IPv4 interface eth0:7, 63.126.79.80#53
+Jan 26 12:23:18 combo kernel: audit(1138296198.308:701025): syscall=102 exit=0 a0=2 a1=f704b4f0 a2=7ee138 a3=9142ac0 items=0 pid=2289 loginuid=-1 uid=25 gid=25 euid=25 suid=25 fsuid=25 egid=25 sgid=25 fsgid=25
+Jan 26 17:23:19 combo named[2288]: listening on IPv4 interface eth0:8, 63.126.79.81#53
+Jan 26 12:23:19 combo kernel: audit(1138296198.308:701032): avc:  denied  { name_bind } for  pid=2289 exe=/usr/sbin/named scontext=system_u:system_r:kernel_t tcontext=system_u:object_r:dns_port_t tclass=tcp_socket
+Jan 26 17:23:20 combo named[2288]: listening on IPv4 interface eth0:9, 63.126.79.82#53
+Jan 26 12:23:20 combo kernel: audit(1138296198.308:701032): syscall=102 exit=0 a0=2 a1=f704b5c0 a2=7ee138 a3=916c4b8 items=0 pid=2289 loginuid=-1 uid=25 gid=25 euid=25 suid=25 fsuid=25 egid=25 sgid=25 fsgid=25
+Jan 26 12:23:20 combo snmpd: snmpd startup succeeded
+Jan 26 17:23:21 combo named[2288]: listening on IPv4 interface eth0:10, 63.126.79.83#53
+Jan 26 17:23:21 combo named[2288]: listening on IPv4 interface eth0:11, 63.126.79.84#53
+Jan 26 17:23:22 combo named[2288]: listening on IPv4 interface eth0:12, 63.126.79.85#53
+Jan 26 12:23:22 combo kernel: audit(1138296202.196:708129): avc:  denied  { name_bind } for  pid=2300 exe=/usr/sbin/snmpd scontext=system_u:system_r:kernel_t tcontext=system_u:object_r:snmp_port_t tclass=tcp_socket
+Jan 26 12:23:22 combo snmpd[2300]: NET-SNMP version 5.1.1 
+Jan 26 12:23:22 combo ntpd[2309]: ntpd 4.2.0@1.1161-r Thu Mar 11 11:46:39 EST 2004 (1)
+Jan 26 12:23:22 combo ntpd: ntpd startup succeeded
+Jan 26 17:23:22 combo named[2288]: listening on IPv4 interface eth0:13, 63.126.79.87#53
+Jan 26 12:23:23 combo kernel: audit(1138296202.196:708129): syscall=102 exit=0 a0=2 a1=feee9ba0 a2=1877bc a3=feee9bdc items=0 pid=2300 loginuid=-1 uid=0 gid=0 euid=0 suid=0 fsuid=0 egid=0 sgid=0 fsgid=0
+Jan 26 17:23:24 combo named[2288]: listening on IPv4 interface eth0:14, 63.126.79.89#53
+Jan 26 12:23:24 combo kernel: audit(1138296202.198:708174): avc:  denied  { name_bind } for  pid=2300 exe=/usr/sbin/snmpd scontext=system_u:system_r:kernel_t tcontext=system_u:object_r:snmp_port_t tclass=udp_socket
+Jan 26 17:23:25 combo named[2288]: listening on IPv4 interface eth0:15, 63.126.79.90#53
+Jan 26 12:23:25 combo ntpd[2309]: precision = 2.000 usec
+Jan 26 12:23:25 combo kernel: audit(1138296202.198:708174): syscall=102 exit=0 a0=2 a1=feee9aa0 a2=9682e4 a3=feee9b60 items=0 pid=2300 loginuid=-1 uid=0 gid=0 euid=0 suid=0 fsuid=0 egid=0 sgid=0 fsgid=0
+Jan 26 17:23:26 combo named[2288]: listening on IPv4 interface eth0:16, 63.126.79.95#53
+Jan 26 12:23:26 combo kernel: audit(1138296206.190:718151): avc:  denied  { name_bind } for  pid=2309 exe=/usr/sbin/ntpd scontext=system_u:system_r:kernel_t tcontext=system_u:object_r:ntp_port_t tclass=udp_socket
+Jan 26 12:23:26 combo ntpd[2309]: kernel time sync status 0040
+Jan 26 17:23:26 combo named[2288]: listening on IPv4 interface eth0:17, 63.126.79.100#53
+Jan 26 12:23:26 combo kernel: audit(1138296206.190:718151): syscall=102 exit=0 a0=2 a1=fee78e80 a2=29e60c a3=fee78eac items=0 pid=2309 loginuid=-1 uid=0 gid=0 euid=0 suid=0 fsuid=0 egid=0 sgid=0 fsgid=0
+Jan 26 17:23:27 combo named[2288]: listening on IPv4 interface eth0:18, 63.126.79.105#53
+Jan 26 12:23:27 combo ntpd[2309]: frequency initialized 0.000 PPM from /var/lib/ntp/drift
+Jan 26 17:23:27 combo named[2288]: listening on IPv4 interface eth0:19, 63.126.79.110#53
+Jan 26 17:23:28 combo named[2288]: listening on IPv4 interface eth0:20, 63.126.79.115#53
+Jan 26 12:23:28 combo ntpd[2309]: configure: keyword "authenticate" unknown, line ignored
+Jan 26 17:23:28 combo named[2288]: listening on IPv4 interface eth0:21, 63.126.79.120#53
+Jan 26 12:23:28 combo mysqld: Starting MySQL:  succeeded
+Jan 26 17:23:28 combo named[2288]: listening on IPv4 interface eth0:22, 63.126.79.125#53
+Jan 26 12:23:29 combo rsyncd[2373]: rsyncd version 2.6.2 starting, listening on port 873 
+Jan 26 17:23:29 combo named[2288]: couldn't add command channel 127.0.0.1#953: not found
+Jan 26 17:23:29 combo named[2288]: couldn't add command channel ::1#953: not found
+Jan 26 17:23:30 combo named[2288]: running
+Jan 26 12:23:30 combo mdmonitor: mdadm succeeded
+Jan 26 12:23:31 combo mdmpd: mdmpd failed
+Jan 26 12:23:32 combo kernel: audit(1138296212.406:734909): avc:  denied  { remove_name } for  pid=511 exe=/usr/bin/rhgb name=rhgb-socket dev= ino=1026 scontext=system_u:system_r:kernel_t tcontext=system_u:object_r:ramfs_t tclass=dir
+Jan 26 12:23:32 combo kernel: audit(1138296212.406:734909): avc:  denied  { unlink } for  pid=511 exe=/usr/bin/rhgb name=rhgb-socket dev= ino=1026 scontext=system_u:system_r:kernel_t tcontext=system_u:object_r:ramfs_t tclass=sock_file
+Jan 26 12:23:32 combo kernel: audit(1138296212.406:734909): syscall=10 exit=0 a0=805cd2b a1=805cd26 a2=feee2bd0 a3=feee2bd5 items=1 pid=511 loginuid=-1 uid=0 gid=0 euid=0 suid=0 fsuid=0 egid=0 sgid=0 fsgid=0
+Jan 26 12:23:32 combo kernel: audit(1138296212.406:734909): item=0 name=/initrd/rhgb-socket inode=1021 dev=00:00
+Jan 26 12:23:32 combo kernel: audit(1138296212.406:734910): avc:  denied  { unlink } for  pid=511 exe=/usr/bin/rhgb name=XFree86.0.log dev= ino=1027 scontext=system_u:system_r:kernel_t tcontext=system_u:object_r:ramfs_t tclass=file
+Jan 26 12:23:32 combo kernel: audit(1138296212.406:734910): syscall=10 exit=0 a0=805cd3f a1=805cd26 a2=feee2bd0 a3=feee2bd5 items=1 pid=511 loginuid=-1 uid=0 gid=0 euid=0 suid=0 fsuid=0 egid=0 sgid=0 fsgid=0
+Jan 26 12:23:32 combo kernel: audit(1138296212.406:734910): item=0 name=/initrd/XFree86.0.log inode=1021 dev=00:00
+Jan 26 12:23:33 combo udev[2496]: creating device node '/udev/vcsa5'
+Jan 26 12:23:33 combo udev[2432]: creating device node '/udev/vcs5'
+Jan 26 12:23:34 combo udev[2586]: creating device node '/udev/vcs4'
+Jan 26 12:23:34 combo udev[2587]: creating device node '/udev/vcs3'
+Jan 26 12:23:34 combo udev[2588]: creating device node '/udev/vcsa4'
+Jan 26 12:23:34 combo udev[2584]: creating device node '/udev/vcs6'
+Jan 26 12:23:34 combo udev[2585]: creating device node '/udev/vcsa6'
+Jan 26 12:23:34 combo udev[2606]: creating device node '/udev/vcs1'
+Jan 26 12:23:34 combo udev[2423]: removing device node '/udev/vcs8'
+Jan 26 12:23:34 combo udev[2424]: removing device node '/udev/vcsa8'
+Jan 26 12:23:34 combo udev[2631]: creating device node '/udev/vcsa1'
+Jan 26 12:23:35 combo udev[2589]: creating device node '/udev/vcsa3'
+Jan 26 12:23:35 combo udev[2590]: creating device node '/udev/vcs2'
+Jan 26 12:23:35 combo udev[2630]: creating device node '/udev/vcsa2'
+Jan 26 12:23:36 combo udev[2682]: removing device node '/udev/vcsa5'
+Jan 26 12:23:36 combo kernel: audit(1138296216.366:837154): avc:  denied  { getattr } for  pid=2686 exe=/sbin/restorecon name=vcsa5 dev=hda2 ino=283654 scontext=system_u:system_r:kernel_t tcontext=system_u:object_r:tty_device_t tclass=chr_file
+Jan 26 12:23:36 combo udev[2693]: removing device node '/udev/vcs5'
+Jan 26 12:23:37 combo udev[2703]: removing device node '/udev/vcs4'
+Jan 26 12:23:38 combo udev[2720]: removing device node '/udev/vcs3'
+Jan 26 12:23:38 combo udev[2729]: removing device node '/udev/vcsa4'
+Jan 26 12:23:39 combo udev[2738]: removing device node '/udev/vcs6'
+Jan 26 12:23:40 combo udev[2747]: removing device node '/udev/vcsa6'
+Jan 26 12:23:40 combo udev[2756]: removing device node '/udev/vcs1'
+Jan 26 12:23:42 combo udev[2765]: removing device node '/udev/vcsa1'
+Jan 26 12:23:42 combo udev[2774]: removing device node '/udev/vcsa3'
+Jan 26 12:23:43 combo udev[2783]: removing device node '/udev/vcs2'
+Jan 26 12:23:43 combo udev[2793]: removing device node '/udev/vcsa2'
+Jan 26 12:23:44 combo udev[2799]: creating device node '/udev/vcsa5'
+Jan 26 12:23:49 combo kernel: audit(1138296216.366:837154): item=0 name=/udev/vcsa5 inode=283654 dev=07:85
+Jan 26 12:23:50 combo xinetd[2013]: file descriptor of service comsat has been closed
+Jan 26 12:23:57 combo udev[2905]: removing device node '/udev/vcs7'
+Jan 26 12:23:57 combo udev[2914]: removing device node '/udev/vcsa7'
+Jan 26 12:23:57 combo kernel: audit(1138296225.426:965370): avc:  denied  { unlink } for  pid=2417 exe=/usr/bin/gdm-binary name=.gdmfifo dev=hda2 ino=943272 scontext=system_u:system_r:kernel_t tcontext=system_u:object_r:file_t tclass=fifo_file
+Jan 26 12:23:58 combo xinetd[2013]: select reported EBADF but no bad file descriptors were found
+Jan 26 12:23:58 combo kernel: audit(1138296225.426:965370): syscall=10 exit=0 a0=9e9f968 a1=0 a2=f70ad980 a3=1b0 items=1 pid=2417 loginuid=-1 uid=0 gid=0 euid=0 suid=0 fsuid=0 egid=0 sgid=0 fsgid=0
+Jan 26 12:23:59 combo udev[2920]: creating device node '/udev/vcs7'
+Jan 26 12:23:59 combo udev[2921]: creating device node '/udev/vcsa7'
+Jan 26 12:23:59 combo kernel: audit(1138296225.426:965370): item=0 name=/var/gdm/.gdmfifo inode=1190404 dev=00:00
+Jan 26 12:24:00 combo kernel: audit(1138296225.596:965626): avc:  denied  { create } for  pid=2417 exe=/usr/bin/gdm-binary name=.gdmfifo scontext=system_u:system_r:kernel_t tcontext=system_u:object_r:file_t tclass=fifo_file
+Jan 26 12:24:00 combo kernel: audit(1138296225.596:965626): syscall=14 exit=0 a0=9e9f968 a1=11b0 a2=0 a3=0 items=1 pid=2417 loginuid=-1 uid=0 gid=0 euid=0 suid=0 fsuid=0 egid=0 sgid=0 fsgid=0
+Jan 26 12:24:01 combo kernel: audit(1138296225.596:965626): item=0 name=/var/gdm/.gdmfifo inode=1190404 dev=00:00
