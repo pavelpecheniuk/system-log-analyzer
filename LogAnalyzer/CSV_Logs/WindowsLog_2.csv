@@ -1,0 +1,101 @@
+﻿LineId,Date,Time,Level,Component,Content,EventId,EventTemplate
+101,28/09/2016,04:30:31,Info,CBS,Expecting attribute name [HRESULT = 0x800f080d - CBS_E_MANIFEST_INVALID_ITEM],E18,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+102,28/09/2016,04:30:31,Info,CBS,Failed to get next element [HRESULT = 0x800f080d - CBS_E_MANIFEST_INVALID_ITEM],E20,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+103,28/09/2016,04:30:31,Info,CBS,Warning: Unrecognized packageExtended attribute.,E50,Warning: Unrecognized packageExtended attribute.
+104,28/09/2016,04:30:31,Info,CBS,Warning: Unrecognized packageExtended attribute.,E50,Warning: Unrecognized packageExtended attribute.
+105,28/09/2016,04:30:31,Info,CBS,Expecting attribute name [HRESULT = 0x800f080d - CBS_E_MANIFEST_INVALID_ITEM],E18,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+106,28/09/2016,04:30:31,Info,CBS,Failed to get next element [HRESULT = 0x800f080d - CBS_E_MANIFEST_INVALID_ITEM],E20,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+107,28/09/2016,04:30:31,Info,CBS,Warning: Unrecognized packageExtended attribute.,E50,Warning: Unrecognized packageExtended attribute.
+108,28/09/2016,04:30:31,Info,CBS,Expecting attribute name [HRESULT = 0x800f080d - CBS_E_MANIFEST_INVALID_ITEM],E18,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+109,28/09/2016,04:30:31,Info,CBS,Failed to get next element [HRESULT = 0x800f080d - CBS_E_MANIFEST_INVALID_ITEM],E20,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+110,28/09/2016,04:30:31,Info,CBS,Warning: Unrecognized packageExtended attribute.,E50,Warning: Unrecognized packageExtended attribute.
+111,28/09/2016,04:30:31,Info,CBS,Expecting attribute name [HRESULT = 0x800f080d - CBS_E_MANIFEST_INVALID_ITEM],E18,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+112,28/09/2016,04:30:31,Info,CBS,Failed to get next element [HRESULT = 0x800f080d - CBS_E_MANIFEST_INVALID_ITEM],E20,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+113,28/09/2016,04:30:31,Info,CBS,Warning: Unrecognized packageExtended attribute.,E50,Warning: Unrecognized packageExtended attribute.
+114,28/09/2016,04:30:31,Info,CBS,Expecting attribute name [HRESULT = 0x800f080d - CBS_E_MANIFEST_INVALID_ITEM],E18,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+115,28/09/2016,04:30:31,Info,CBS,Failed to get next element [HRESULT = 0x800f080d - CBS_E_MANIFEST_INVALID_ITEM],E20,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+116,28/09/2016,04:30:31,Info,CBS,Warning: Unrecognized packageExtended attribute.,E50,Warning: Unrecognized packageExtended attribute.
+117,28/09/2016,04:30:31,Info,CBS,Warning: Unrecognized packageExtended attribute.,E50,Warning: Unrecognized packageExtended attribute.
+118,28/09/2016,04:30:31,Info,CBS,Expecting attribute name [HRESULT = 0x800f080d - CBS_E_MANIFEST_INVALID_ITEM],E18,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+119,28/09/2016,04:30:31,Info,CBS,Failed to get next element [HRESULT = 0x800f080d - CBS_E_MANIFEST_INVALID_ITEM],E20,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+120,28/09/2016,04:30:31,Info,CBS,Warning: Unrecognized packageExtended attribute.,E50,Warning: Unrecognized packageExtended attribute.
+121,28/09/2016,04:30:31,Info,CBS,Expecting attribute name [HRESULT = 0x800f080d - CBS_E_MANIFEST_INVALID_ITEM],E18,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+122,28/09/2016,04:30:31,Info,CBS,Failed to get next element [HRESULT = 0x800f080d - CBS_E_MANIFEST_INVALID_ITEM],E20,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+123,28/09/2016,04:30:31,Info,CBS,Warning: Unrecognized packageExtended attribute.,E50,Warning: Unrecognized packageExtended attribute.
+124,28/09/2016,04:30:31,Info,CBS,Expecting attribute name [HRESULT = 0x800f080d - CBS_E_MANIFEST_INVALID_ITEM],E18,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+125,28/09/2016,04:30:31,Info,CBS,Failed to get next element [HRESULT = 0x800f080d - CBS_E_MANIFEST_INVALID_ITEM],E20,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+126,28/09/2016,04:30:31,Info,CBS,Warning: Unrecognized packageExtended attribute.,E50,Warning: Unrecognized packageExtended attribute.
+127,28/09/2016,04:30:31,Info,CBS,Expecting attribute name [HRESULT = 0x800f080d - CBS_E_MANIFEST_INVALID_ITEM],E18,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+128,28/09/2016,04:30:31,Info,CBS,Failed to get next element [HRESULT = 0x800f080d - CBS_E_MANIFEST_INVALID_ITEM],E20,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+129,28/09/2016,04:30:31,Info,CBS,Warning: Unrecognized packageExtended attribute.,E50,Warning: Unrecognized packageExtended attribute.
+130,28/09/2016,04:30:32,Info,CBS,Session: 30546173_4267072707 initialized by client WindowsUpdateAgent.,E36,Session: <*>_<*> initialized by client WindowsUpdateAgent.
+131,28/09/2016,04:30:32,Info,CBS,Failed to internally open package. [HRESULT = 0x800f0805 - CBS_E_INVALID_PACKAGE],E21,Failed to internally open package. [HRESULT = <*> - CBS_E_INVALID_PACKAGE]
+132,28/09/2016,04:30:32,Info,CBS,Session: 30546173_4268042763 initialized by client WindowsUpdateAgent.,E36,Session: <*>_<*> initialized by client WindowsUpdateAgent.
+133,28/09/2016,04:30:32,Info,CBS,Session: 30546173_4271022933 initialized by client WindowsUpdateAgent.,E36,Session: <*>_<*> initialized by client WindowsUpdateAgent.
+134,28/09/2016,04:30:32,Info,CBS,Warning: Unrecognized packageExtended attribute.,E50,Warning: Unrecognized packageExtended attribute.
+135,28/09/2016,04:30:32,Info,CBS,Expecting attribute name [HRESULT = 0x800f080d - CBS_E_MANIFEST_INVALID_ITEM],E18,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+136,28/09/2016,04:30:32,Info,CBS,Failed to get next element [HRESULT = 0x800f080d - CBS_E_MANIFEST_INVALID_ITEM],E20,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+137,28/09/2016,04:30:32,Info,CBS,Warning: Unrecognized packageExtended attribute.,E50,Warning: Unrecognized packageExtended attribute.
+138,28/09/2016,04:30:32,Info,CBS,Expecting attribute name [HRESULT = 0x800f080d - CBS_E_MANIFEST_INVALID_ITEM],E18,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+139,28/09/2016,04:30:32,Info,CBS,Failed to get next element [HRESULT = 0x800f080d - CBS_E_MANIFEST_INVALID_ITEM],E20,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+140,28/09/2016,04:30:32,Info,CBS,Warning: Unrecognized packageExtended attribute.,E50,Warning: Unrecognized packageExtended attribute.
+141,28/09/2016,04:30:32,Info,CBS,Expecting attribute name [HRESULT = 0x800f080d - CBS_E_MANIFEST_INVALID_ITEM],E18,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+142,28/09/2016,04:30:32,Info,CBS,Failed to get next element [HRESULT = 0x800f080d - CBS_E_MANIFEST_INVALID_ITEM],E20,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+143,28/09/2016,04:30:32,Info,CBS,Warning: Unrecognized packageExtended attribute.,E50,Warning: Unrecognized packageExtended attribute.
+144,28/09/2016,04:30:32,Info,CBS,Expecting attribute name [HRESULT = 0x800f080d - CBS_E_MANIFEST_INVALID_ITEM],E18,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+145,28/09/2016,04:30:32,Info,CBS,Failed to get next element [HRESULT = 0x800f080d - CBS_E_MANIFEST_INVALID_ITEM],E20,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+146,28/09/2016,04:30:32,Info,CBS,Warning: Unrecognized packageExtended attribute.,E50,Warning: Unrecognized packageExtended attribute.
+147,28/09/2016,04:30:32,Info,CBS,Warning: Unrecognized packageExtended attribute.,E50,Warning: Unrecognized packageExtended attribute.
+148,28/09/2016,04:30:32,Info,CBS,Expecting attribute name [HRESULT = 0x800f080d - CBS_E_MANIFEST_INVALID_ITEM],E18,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+149,28/09/2016,04:30:32,Info,CBS,Failed to get next element [HRESULT = 0x800f080d - CBS_E_MANIFEST_INVALID_ITEM],E20,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+150,28/09/2016,04:30:32,Info,CBS,Warning: Unrecognized packageExtended attribute.,E50,Warning: Unrecognized packageExtended attribute.
+151,28/09/2016,04:30:32,Info,CBS,Expecting attribute name [HRESULT = 0x800f080d - CBS_E_MANIFEST_INVALID_ITEM],E18,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+152,28/09/2016,04:30:32,Info,CBS,Failed to get next element [HRESULT = 0x800f080d - CBS_E_MANIFEST_INVALID_ITEM],E20,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+153,28/09/2016,04:30:32,Info,CBS,Warning: Unrecognized packageExtended attribute.,E50,Warning: Unrecognized packageExtended attribute.
+154,28/09/2016,04:30:32,Info,CBS,Expecting attribute name [HRESULT = 0x800f080d - CBS_E_MANIFEST_INVALID_ITEM],E18,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+155,28/09/2016,04:30:32,Info,CBS,Failed to get next element [HRESULT = 0x800f080d - CBS_E_MANIFEST_INVALID_ITEM],E20,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+156,28/09/2016,04:30:32,Info,CBS,Warning: Unrecognized packageExtended attribute.,E50,Warning: Unrecognized packageExtended attribute.
+157,28/09/2016,04:30:32,Info,CBS,Expecting attribute name [HRESULT = 0x800f080d - CBS_E_MANIFEST_INVALID_ITEM],E18,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+158,28/09/2016,04:30:32,Info,CBS,Failed to get next element [HRESULT = 0x800f080d - CBS_E_MANIFEST_INVALID_ITEM],E20,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+159,28/09/2016,04:30:32,Info,CBS,Warning: Unrecognized packageExtended attribute.,E50,Warning: Unrecognized packageExtended attribute.
+160,28/09/2016,04:30:32,Info,CBS,Warning: Unrecognized packageExtended attribute.,E50,Warning: Unrecognized packageExtended attribute.
+161,28/09/2016,04:30:32,Info,CBS,Expecting attribute name [HRESULT = 0x800f080d - CBS_E_MANIFEST_INVALID_ITEM],E18,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+162,28/09/2016,04:30:32,Info,CBS,Failed to get next element [HRESULT = 0x800f080d - CBS_E_MANIFEST_INVALID_ITEM],E20,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+163,28/09/2016,04:30:32,Info,CBS,Warning: Unrecognized packageExtended attribute.,E50,Warning: Unrecognized packageExtended attribute.
+164,28/09/2016,04:30:32,Info,CBS,Expecting attribute name [HRESULT = 0x800f080d - CBS_E_MANIFEST_INVALID_ITEM],E18,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+165,28/09/2016,04:30:32,Info,CBS,Failed to get next element [HRESULT = 0x800f080d - CBS_E_MANIFEST_INVALID_ITEM],E20,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+166,28/09/2016,04:30:32,Info,CBS,Warning: Unrecognized packageExtended attribute.,E50,Warning: Unrecognized packageExtended attribute.
+167,28/09/2016,04:30:32,Info,CBS,Expecting attribute name [HRESULT = 0x800f080d - CBS_E_MANIFEST_INVALID_ITEM],E18,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+168,28/09/2016,04:30:32,Info,CBS,Failed to get next element [HRESULT = 0x800f080d - CBS_E_MANIFEST_INVALID_ITEM],E20,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+169,28/09/2016,04:30:32,Info,CBS,Warning: Unrecognized packageExtended attribute.,E50,Warning: Unrecognized packageExtended attribute.
+170,28/09/2016,04:30:32,Info,CBS,Expecting attribute name [HRESULT = 0x800f080d - CBS_E_MANIFEST_INVALID_ITEM],E18,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+171,28/09/2016,04:30:32,Info,CBS,Failed to get next element [HRESULT = 0x800f080d - CBS_E_MANIFEST_INVALID_ITEM],E20,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+172,28/09/2016,04:30:32,Info,CBS,Warning: Unrecognized packageExtended attribute.,E50,Warning: Unrecognized packageExtended attribute.
+173,28/09/2016,04:30:32,Info,CBS,Warning: Unrecognized packageExtended attribute.,E50,Warning: Unrecognized packageExtended attribute.
+174,28/09/2016,04:30:32,Info,CBS,Expecting attribute name [HRESULT = 0x800f080d - CBS_E_MANIFEST_INVALID_ITEM],E18,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+175,28/09/2016,04:30:32,Info,CBS,Failed to get next element [HRESULT = 0x800f080d - CBS_E_MANIFEST_INVALID_ITEM],E20,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+176,28/09/2016,04:30:32,Info,CBS,Warning: Unrecognized packageExtended attribute.,E50,Warning: Unrecognized packageExtended attribute.
+177,28/09/2016,04:30:32,Info,CBS,Expecting attribute name [HRESULT = 0x800f080d - CBS_E_MANIFEST_INVALID_ITEM],E18,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+178,28/09/2016,04:30:32,Info,CBS,Failed to get next element [HRESULT = 0x800f080d - CBS_E_MANIFEST_INVALID_ITEM],E20,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+179,28/09/2016,04:30:32,Info,CBS,Warning: Unrecognized packageExtended attribute.,E50,Warning: Unrecognized packageExtended attribute.
+180,28/09/2016,04:30:32,Info,CBS,Expecting attribute name [HRESULT = 0x800f080d - CBS_E_MANIFEST_INVALID_ITEM],E18,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+181,28/09/2016,04:30:32,Info,CBS,Failed to get next element [HRESULT = 0x800f080d - CBS_E_MANIFEST_INVALID_ITEM],E20,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+182,28/09/2016,04:30:32,Info,CBS,Warning: Unrecognized packageExtended attribute.,E50,Warning: Unrecognized packageExtended attribute.
+183,28/09/2016,04:30:32,Info,CBS,Expecting attribute name [HRESULT = 0x800f080d - CBS_E_MANIFEST_INVALID_ITEM],E18,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+184,28/09/2016,04:30:32,Info,CBS,Failed to get next element [HRESULT = 0x800f080d - CBS_E_MANIFEST_INVALID_ITEM],E20,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+185,28/09/2016,04:30:32,Info,CBS,Warning: Unrecognized packageExtended attribute.,E50,Warning: Unrecognized packageExtended attribute.
+186,28/09/2016,04:30:32,Info,CBS,Warning: Unrecognized packageExtended attribute.,E50,Warning: Unrecognized packageExtended attribute.
+187,28/09/2016,04:30:32,Info,CBS,Expecting attribute name [HRESULT = 0x800f080d - CBS_E_MANIFEST_INVALID_ITEM],E18,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+188,28/09/2016,04:30:32,Info,CBS,Failed to get next element [HRESULT = 0x800f080d - CBS_E_MANIFEST_INVALID_ITEM],E20,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+189,28/09/2016,04:30:32,Info,CBS,Warning: Unrecognized packageExtended attribute.,E50,Warning: Unrecognized packageExtended attribute.
+190,28/09/2016,04:30:32,Info,CBS,Expecting attribute name [HRESULT = 0x800f080d - CBS_E_MANIFEST_INVALID_ITEM],E18,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+191,28/09/2016,04:30:32,Info,CBS,Failed to get next element [HRESULT = 0x800f080d - CBS_E_MANIFEST_INVALID_ITEM],E20,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+192,28/09/2016,04:30:32,Info,CBS,Warning: Unrecognized packageExtended attribute.,E50,Warning: Unrecognized packageExtended attribute.
+193,28/09/2016,04:30:32,Info,CBS,Expecting attribute name [HRESULT = 0x800f080d - CBS_E_MANIFEST_INVALID_ITEM],E18,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+194,28/09/2016,04:30:32,Info,CBS,Failed to get next element [HRESULT = 0x800f080d - CBS_E_MANIFEST_INVALID_ITEM],E20,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+195,28/09/2016,04:30:32,Info,CBS,Warning: Unrecognized packageExtended attribute.,E50,Warning: Unrecognized packageExtended attribute.
+196,28/09/2016,04:30:32,Info,CBS,Expecting attribute name [HRESULT = 0x800f080d - CBS_E_MANIFEST_INVALID_ITEM],E18,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+197,28/09/2016,04:30:32,Info,CBS,Failed to get next element [HRESULT = 0x800f080d - CBS_E_MANIFEST_INVALID_ITEM],E20,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+198,28/09/2016,04:30:32,Info,CBS,Warning: Unrecognized packageExtended attribute.,E50,Warning: Unrecognized packageExtended attribute.
+199,28/09/2016,04:30:32,Info,CBS,Warning: Unrecognized packageExtended attribute.,E50,Warning: Unrecognized packageExtended attribute.
+200,28/09/2016,04:30:32,Info,CBS,Expecting attribute name [HRESULT = 0x800f080d - CBS_E_MANIFEST_INVALID_ITEM],E18,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
