@@ -17,7 +17,7 @@ system activity. This is a baseline tool that serves both as lightweight analysi
 - Detects deviations in operational workflow (abnormal login sequences).
 - Anomaly rules for both methods are stored similarly in the dedicated config file.
 4. Alerting System
-Instant reporting in real time via console alerts and SMTP-assisted email alerts.
+- Instant reporting in real time via console alerts and SMTP-assisted email alerts.
 
 # Notes for Usage
 - Paths to locations of config files and logs are hardcoded, so keep an eye for it.
